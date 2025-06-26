@@ -1,0 +1,25 @@
+<div class="content w-mid">
+    <h2>User Info:</h2>
+    <!-- IF($canChngPswd) -->
+        <a href="<!-- $chngPswdLink -->">Change Password</a>
+    <!-- } -->
+    <form action="<!-- $formActionLink -->" method="GET">
+        <label for="email">Email:</label>
+        <input disabled type="email" pattern="^\S+@{1}\S+\.{1}\S+$" name="email" id="email" value="<!-- $user.email -->">
+        <br>
+        <label for="first_name">First Name:</label>
+        <input type="text" name="first_name" id="first_name" value="<!-- $user.first_name -->">
+        <br>
+        <label for="last_name">Last Name:</label>
+        <input type="text" name="last_name" id="last_name" value="<!-- $user.last_name -->">
+        <br>
+        <label for="phone">Phone # as "(xxx) xxx-xxxx":</label>
+        <input type="text" pattern="\([0-9]{3}\) [0-9]{3}-[0-9]{4}" name="phone" id="phone" value="<!-- $user.phone -->">
+        <br>
+        <input class="button" type="submit" name="submit_button" value="Submit">
+        <br>
+        <input class="button" type="submit" name="cancel_button" value="Cancel">
+        
+        <input type="hidden" name="user_id" value="<!-- $user.user_id -->">
+    </form>
+</div>

@@ -1,0 +1,5 @@
+powershell -Command "del -Recurse node_modules"
+powershell -Command "del -Recurse Controllers"
+powershell -Command "del -Recurse Models"
+powershell -Command "del *.js"
+powershell -Command "del package-lock.json"

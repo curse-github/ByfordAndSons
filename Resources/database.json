@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "user_id": -1,
+            "accountType": "user",
+            "email": ".@...",
+            "pass_hash": "",
+            "first_name": "System",
+            "last_name": "",
+            "phone": "N/A"
+        },
+        {
+            "user_id": 0,
+            "accountType": "support",
+            "email": "gssupport@campbellsimpson.com",
+            "pass_hash": "b7fb0394c7183fd5cac17fb41961c826212a185070e4c1d2f4920e51c1dee35f",
+            "first_name": "Campbell",
+            "last_name": "Simpson",
+            "phone": "(405) 531-6360"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+.gs-table {
+    display: flex;
+    flex-direction: column;
+    --width: 100%;
+    min-width: var(--width);
+    max-width: var(--width);
+    width: var(--width);
+    margin: 0;
+    padding: 0;
+}
+.gs-table-body {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+}
+.gs-table-row {
+    display: block;
+    --width: 100%;
+    min-width: var(--width);
+    max-width: var(--width);
+    width: var(--width);
+    margin: 0;
+    padding: 0;
+    margin-bottom: 0.5em;
+}
+.gs-table-columns {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+}
+.gs-table-cell {
+    display: flex;
+    flex-basis: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}
+
+.gs-table-title {
+    font-weight: bold;
+}
+.gs-table-title::after {
+    content:"";
+    display: block;
+    --width: 100%;
+    --height: 2px;
+    min-width: var(--width);
+    max-width: var(--width);
+    width: var(--width);
+    min-height: var(--height);
+    max-height: var(--height);
+    height: var(--height);
+
+    background-color: black;
+    margin-bottom: 0.5em;
+}

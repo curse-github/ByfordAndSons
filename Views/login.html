@@ -1,0 +1,24 @@
+<div class="content w-thin">
+    <label for="username">Email:</label>
+    <input class="field" type="text" name="username" id="username">
+    <br>
+    <label for="password">Password:</label>
+    <input type="password" name="password" id="password">
+    <label for="toggle">Show password:</label>
+    <input type="checkbox" name="toggle" id="toggle">
+    <br>
+    <input class="button" type="button" value="Login" onclick="tryLogin();">
+</div>
+<script>
+    async function tryLogin() {
+        const email = encodeURIComponent(document.getElementById("username").value);
+        const password = encodeURIComponent(sha256(document.getElementById("password").value));
+        const result = await fetchJson("/tryLogin?email="+email+"&password="+password);
+        if (result) window.location.pathname="/user/landing";
+        else document.getElementById("password").value="";
+    }
+    document.addEventListener("DOMContentLoaded", ()=>{
+        // toggle password visibility
+        document.getElementById("toggle").addEventListener("change",async ()=>document.getElementById("password").type=((document.getElementById("toggle").checked)?"text":"password"));
+    });
+</script>

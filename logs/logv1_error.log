@@ -1,0 +1,503 @@
+ERROR - 12/20/2024 17:10:01 --> Error: ENOENT: no such file or directory, open '../../Resources/database.json'
+ERROR - 12/20/2024 17:11:00 --> Error: ENOENT: no such file or directory, open '../Resources/database.json'
+ERROR - 12/20/2024 17:11:03 --> Error: ENOENT: no such file or directory, open '../Resources/database.json'
+ERROR - 12/20/2024 17:11:51 --> Error: ENOENT: no such file or directory, open '../Resources/database.json'
+ERROR - 12/20/2024 17:16:14 --> USER/Warning: key "header" not found on object "".
+ERROR - 12/20/2024 17:16:14 --> USER/Warning: key "pageEditable" not found on object "".
+ERROR - 12/20/2024 17:16:14 --> USER/Warning: key "message" not found on object "".
+ERROR - 12/20/2024 17:16:18 --> USER/Warning: key "header" not found on object "".
+ERROR - 12/20/2024 17:16:40 --> USER/Warning: key "message" not found on object "".
+ERROR - 12/20/2024 17:16:41 --> USER/Warning: key "message" not found on object "".
+ERROR - 12/20/2024 17:16:41 --> USER/Warning: key "chngPswdLink" not found on object "".
+ERROR - 12/20/2024 17:16:41 --> USER/Warning: key "formActionLink" not found on object "".
+ERROR - 12/20/2024 17:16:45 --> USER/Warning: key "message" not found on object "".
+ERROR - 12/20/2024 17:16:45 --> USER/Warning: key "chngPswdLink" not found on object "".
+ERROR - 12/20/2024 17:16:45 --> USER/Warning: key "formActionLink" not found on object "".
+ERROR - 12/20/2024 17:33:00 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 12/20/2024 17:33:03 --> USER/Warning: key "pageEditable" not found on object "".
+ERROR - 12/20/2024 17:33:03 --> USER/Warning: key "message" not found on object "".
+ERROR - 12/20/2024 17:33:07 --> USER/Warning: key "message" not found on object "".
+ERROR - 12/20/2024 17:33:27 --> USER/Warning: key "message" not found on object "".
+ERROR - 12/20/2024 17:33:30 --> USER/Warning: key "message" not found on object "".
+ERROR - 12/20/2024 17:33:30 --> USER/Warning: key "message" not found on object "".
+ERROR - 12/20/2024 17:34:12 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 12/20/2024 17:34:15 --> USER/Warning: key "pageEditable" not found on object "".
+ERROR - 12/20/2024 17:34:15 --> USER/Warning: key "message" not found on object "".
+ERROR - 12/20/2024 17:34:17 --> USER/Warning: key "chngPswdLink" not found on object "".
+ERROR - 12/20/2024 17:34:24 --> User "Campbell Simpson" tried to access non-existant page "/user/update_user".
+ERROR - 12/20/2024 17:35:13 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 12/20/2024 17:35:17 --> USER/Warning: key "pageEditable" not found on object "".
+ERROR - 12/20/2024 17:35:17 --> USER/Warning: key "message" not found on object "".
+ERROR - 12/20/2024 17:35:20 --> USER/Warning: key "chngPswdLink" not found on object "".
+ERROR - 12/20/2024 17:35:23 --> USER/Warning: key "chngPswdLink" not found on object "".
+ERROR - 12/20/2024 17:35:33 --> USER/Warning: key "chngPswdLink" not found on object "".
+ERROR - 12/20/2024 17:35:37 --> USER/Warning: key "chngPswdLink" not found on object "".
+ERROR - 12/20/2024 17:35:37 --> USER/Warning: key "email" not found on object "user".
+ERROR - 12/20/2024 17:36:41 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 12/20/2024 17:36:48 --> USER/Warning: key "pageEditable" not found on object "".
+ERROR - 12/20/2024 17:36:48 --> USER/Warning: key "message" not found on object "".
+ERROR - 12/20/2024 17:36:51 --> USER/Warning: key "chngPswdLink" not found on object "".
+ERROR - 12/20/2024 17:36:56 --> USER/Warning: key "chngPswdLink" not found on object "".
+ERROR - 12/20/2024 17:36:58 --> USER/Warning: key "chngPswdLink" not found on object "".
+ERROR - 12/20/2024 17:36:58 --> USER/Warning: key "email" not found on object "user".
+ERROR - 12/20/2024 17:37:45 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 12/20/2024 17:37:48 --> USER/Warning: key "pageEditable" not found on object "".
+ERROR - 12/20/2024 17:37:48 --> USER/Warning: key "message" not found on object "".
+ERROR - 12/20/2024 17:37:50 --> USER/Warning: key "chngPswdLink" not found on object "".
+ERROR - 12/20/2024 17:37:53 --> USER/Warning: key "chngPswdLink" not found on object "".
+ERROR - 12/20/2024 17:37:53 --> USER/Warning: key "email" not found on object "user".
+ERROR - 12/20/2024 17:38:11 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 12/20/2024 17:38:15 --> USER/Warning: key "pageEditable" not found on object "".
+ERROR - 12/20/2024 17:38:15 --> USER/Warning: key "message" not found on object "".
+ERROR - 12/20/2024 17:38:17 --> USER/Warning: key "chngPswdLink" not found on object "".
+ERROR - 12/20/2024 17:38:19 --> USER/Warning: key "chngPswdLink" not found on object "".
+ERROR - 12/20/2024 17:38:19 --> USER/Warning: key "email" not found on object "user".
+ERROR - 12/20/2024 17:38:33 --> USER/Warning: key "chngPswdLink" not found on object "".
+ERROR - 12/20/2024 17:38:37 --> USER/Warning: key "chngPswdLink" not found on object "".
+ERROR - 12/20/2024 17:38:37 --> USER/Warning: key "email" not found on object "user".
+ERROR - 12/20/2024 17:39:27 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 12/20/2024 17:39:30 --> USER/Warning: key "pageEditable" not found on object "".
+ERROR - 12/20/2024 17:39:30 --> USER/Warning: key "message" not found on object "".
+ERROR - 12/20/2024 17:41:48 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 12/20/2024 17:41:52 --> USER/Warning: key "pageEditable" not found on object "".
+ERROR - 12/20/2024 17:41:52 --> USER/Warning: key "message" not found on object "".
+ERROR - 12/20/2024 17:41:56 --> USER/Warning: key "chngPswdLink" not found on object "".
+ERROR - 12/20/2024 17:42:02 --> USER/Warning: key "chngPswdLink" not found on object "".
+ERROR - 12/20/2024 17:42:05 --> USER/Warning: key "chngPswdLink" not found on object "".
+ERROR - 12/20/2024 17:42:05 --> USER/Warning: key "user_id" not found on object "user".
+ERROR - 12/20/2024 17:43:21 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 12/20/2024 17:43:25 --> USER/Warning: key "pageEditable" not found on object "".
+ERROR - 12/20/2024 17:43:25 --> USER/Warning: key "message" not found on object "".
+ERROR - 12/20/2024 17:47:12 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 12/20/2024 17:47:16 --> USER/Warning: key "pageEditable" not found on object "".
+ERROR - 12/20/2024 17:47:16 --> USER/Warning: key "message" not found on object "".
+ERROR - 12/20/2024 17:48:13 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 12/20/2024 17:48:16 --> USER/Warning: key "pageEditable" not found on object "".
+ERROR - 12/20/2024 17:48:16 --> USER/Warning: key "message" not found on object "".
+ERROR - 12/20/2024 17:48:41 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 12/20/2024 17:48:45 --> USER/Warning: key "pageEditable" not found on object "".
+ERROR - 12/20/2024 17:48:45 --> USER/Warning: key "message" not found on object "".
+ERROR - 12/20/2024 17:48:49 --> {"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Lib.js","C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Server.js"]}
+ERROR - 12/20/2024 17:48:49 --> User "Campbell Simpson" tried to access non-existant page "/login".
+ERROR - 12/20/2024 17:48:49 --> {"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Lib.js","C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Server.js"]}
+ERROR - 12/20/2024 17:48:49 --> User "Campbell Simpson" tried to access non-existant page "/login".
+ERROR - 12/20/2024 17:48:49 --> {"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Lib.js","C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Server.js"]}
+ERROR - 12/20/2024 17:48:49 --> User "Campbell Simpson" tried to access non-existant page "/login".
+ERROR - 12/20/2024 17:48:49 --> {"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Lib.js","C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Server.js"]}
+ERROR - 12/20/2024 17:48:49 --> User "Campbell Simpson" tried to access non-existant page "/login".
+ERROR - 12/20/2024 17:48:49 --> {"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Lib.js","C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Server.js"]}
+ERROR - 12/20/2024 17:48:49 --> User "Campbell Simpson" tried to access non-existant page "/login".
+ERROR - 12/20/2024 17:48:49 --> {"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Lib.js","C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Server.js"]}
+ERROR - 12/20/2024 17:48:49 --> User "Campbell Simpson" tried to access non-existant page "/login".
+ERROR - 12/20/2024 17:48:49 --> {"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Lib.js","C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Server.js"]}
+ERROR - 12/20/2024 17:48:49 --> User "Campbell Simpson" tried to access non-existant page "/login".
+ERROR - 12/20/2024 17:48:49 --> {"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Lib.js","C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Server.js"]}
+ERROR - 12/20/2024 17:48:49 --> User "Campbell Simpson" tried to access non-existant page "/login".
+ERROR - 12/20/2024 17:48:50 --> {"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Lib.js","C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Server.js"]}
+ERROR - 12/20/2024 17:48:50 --> User "Campbell Simpson" tried to access non-existant page "/login".
+ERROR - 12/20/2024 17:48:50 --> {"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Lib.js","C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Server.js"]}
+ERROR - 12/20/2024 17:48:50 --> User "Campbell Simpson" tried to access non-existant page "/login".
+ERROR - 12/20/2024 17:48:50 --> {"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Lib.js","C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Server.js"]}
+ERROR - 12/20/2024 17:48:50 --> User "Campbell Simpson" tried to access non-existant page "/login".
+ERROR - 12/20/2024 17:48:50 --> {"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Lib.js","C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Server.js"]}
+ERROR - 12/20/2024 17:48:50 --> User "Campbell Simpson" tried to access non-existant page "/login".
+ERROR - 12/20/2024 17:48:50 --> {"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Lib.js","C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Server.js"]}
+ERROR - 12/20/2024 17:48:50 --> User "Campbell Simpson" tried to access non-existant page "/login".
+ERROR - 12/20/2024 17:48:50 --> {"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Lib.js","C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Server.js"]}
+ERROR - 12/20/2024 17:48:50 --> User "Campbell Simpson" tried to access non-existant page "/login".
+ERROR - 12/20/2024 17:48:50 --> {"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Lib.js","C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Server.js"]}
+ERROR - 12/20/2024 17:48:50 --> User "Campbell Simpson" tried to access non-existant page "/login".
+ERROR - 12/20/2024 17:48:50 --> {"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Lib.js","C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Server.js"]}
+ERROR - 12/20/2024 17:48:50 --> User "Campbell Simpson" tried to access non-existant page "/login".
+ERROR - 12/20/2024 17:48:50 --> {"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Lib.js","C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Server.js"]}
+ERROR - 12/20/2024 17:48:50 --> User "Campbell Simpson" tried to access non-existant page "/login".
+ERROR - 12/20/2024 17:48:50 --> {"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Lib.js","C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Server.js"]}
+ERROR - 12/20/2024 17:48:50 --> User "Campbell Simpson" tried to access non-existant page "/login".
+ERROR - 12/20/2024 17:48:50 --> {"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Lib.js","C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Server.js"]}
+ERROR - 12/20/2024 17:48:50 --> User "Campbell Simpson" tried to access non-existant page "/login".
+ERROR - 12/20/2024 17:48:50 --> {"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Lib.js","C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Server.js"]}
+ERROR - 12/20/2024 17:48:50 --> User "Campbell Simpson" tried to access non-existant page "/login".
+ERROR - 12/20/2024 17:48:51 --> {"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Lib.js","C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Server.js"]}
+ERROR - 12/20/2024 17:48:51 --> User "Campbell Simpson" tried to access non-existant page "/login".
+ERROR - 12/20/2024 17:48:51 --> {"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Lib.js","C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Server.js"]}
+ERROR - 12/20/2024 17:48:51 --> User "Campbell Simpson" tried to access non-existant page "/login".
+ERROR - 12/20/2024 17:48:51 --> {"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Lib.js","C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Server.js"]}
+ERROR - 12/20/2024 17:48:51 --> User "Campbell Simpson" tried to access non-existant page "/login".
+ERROR - 12/20/2024 17:48:51 --> {"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Lib.js","C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Server.js"]}
+ERROR - 12/20/2024 17:48:51 --> User "Campbell Simpson" tried to access non-existant page "/login".
+ERROR - 12/20/2024 17:48:51 --> {"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Lib.js","C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Server.js"]}
+ERROR - 12/20/2024 17:48:51 --> User "Campbell Simpson" tried to access non-existant page "/login".
+ERROR - 12/20/2024 17:48:51 --> {"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Lib.js","C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Server.js"]}
+ERROR - 12/20/2024 17:48:51 --> User "Campbell Simpson" tried to access non-existant page "/login".
+ERROR - 12/20/2024 17:48:51 --> {"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Lib.js","C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Server.js"]}
+ERROR - 12/20/2024 17:48:51 --> User "Campbell Simpson" tried to access non-existant page "/login".
+ERROR - 12/20/2024 17:48:51 --> {"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Lib.js","C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Server.js"]}
+ERROR - 12/20/2024 17:48:51 --> User "Campbell Simpson" tried to access non-existant page "/login".
+ERROR - 12/20/2024 17:48:51 --> {"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Lib.js","C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Server.js"]}
+ERROR - 12/20/2024 17:48:51 --> User "Campbell Simpson" tried to access non-existant page "/login".
+ERROR - 12/20/2024 17:48:51 --> {"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Lib.js","C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Server.js"]}
+ERROR - 12/20/2024 17:48:51 --> User "Campbell Simpson" tried to access non-existant page "/login".
+ERROR - 12/20/2024 17:48:51 --> {"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Lib.js","C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Server.js"]}
+ERROR - 12/20/2024 17:48:51 --> User "Campbell Simpson" tried to access non-existant page "/login".
+ERROR - 12/20/2024 17:48:51 --> {"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Lib.js","C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Server.js"]}
+ERROR - 12/20/2024 17:48:51 --> User "Campbell Simpson" tried to access non-existant page "/login".
+ERROR - 12/20/2024 17:48:51 --> {"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Lib.js","C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Server.js"]}
+ERROR - 12/20/2024 17:48:51 --> User "Campbell Simpson" tried to access non-existant page "/login".
+ERROR - 12/20/2024 17:48:51 --> {"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Lib.js","C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Server.js"]}
+ERROR - 12/20/2024 17:48:51 --> User "Campbell Simpson" tried to access non-existant page "/login".
+ERROR - 12/20/2024 17:48:51 --> {"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Lib.js","C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Server.js"]}
+ERROR - 12/20/2024 17:48:51 --> User "Campbell Simpson" tried to access non-existant page "/login".
+ERROR - 12/20/2024 17:48:51 --> {"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Lib.js","C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Server.js"]}
+ERROR - 12/20/2024 17:48:51 --> User "Campbell Simpson" tried to access non-existant page "/login".
+ERROR - 12/20/2024 17:48:51 --> {"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Lib.js","C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Server.js"]}
+ERROR - 12/20/2024 17:48:51 --> User "Campbell Simpson" tried to access non-existant page "/login".
+ERROR - 12/20/2024 17:48:51 --> {"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Lib.js","C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Server.js"]}
+ERROR - 12/20/2024 17:48:51 --> User "Campbell Simpson" tried to access non-existant page "/login".
+ERROR - 12/20/2024 17:48:51 --> {"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Lib.js","C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Server.js"]}
+ERROR - 12/20/2024 17:48:51 --> User "Campbell Simpson" tried to access non-existant page "/login".
+ERROR - 12/20/2024 17:48:51 --> {"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Lib.js","C:\\Users\\Curse\\Desktop\\programming\\work\\ghostsentry\\ModelControllerView\\Server.js"]}
+ERROR - 12/20/2024 17:48:51 --> User "Campbell Simpson" tried to access non-existant page "/login".
+ERROR - 12/20/2024 17:50:35 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 12/20/2024 17:51:15 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 12/20/2024 17:51:20 --> USER/Warning: key "pageEditable" not found on object "".
+ERROR - 12/20/2024 17:51:20 --> USER/Warning: key "message" not found on object "".
+ERROR - 12/20/2024 17:51:25 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 12/20/2024 17:52:04 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 12/20/2024 17:52:34 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 12/20/2024 17:52:38 --> USER/Warning: key "pageEditable" not found on object "".
+ERROR - 12/20/2024 17:52:38 --> USER/Warning: key "message" not found on object "".
+ERROR - 12/20/2024 17:52:39 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 01/07/2025 12:31:33 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 01/07/2025 13:05:50 --> /Warning: key "site_title" not found on object "".
+ERROR - 01/07/2025 13:05:50 --> /Warning: key "pageTitle" not found on object "".
+ERROR - 01/07/2025 13:07:20 --> /Warning: key "site_title" not found on object "".
+ERROR - 01/07/2025 13:07:20 --> /Warning: key "pageTitle" not found on object "".
+ERROR - 01/07/2025 13:20:21 --> USER/Warning: key "pageEditable" not found on object "".
+ERROR - 01/07/2025 13:20:21 --> USER/Warning: key "message" not found on object "".
+ERROR - 01/07/2025 13:36:34 --> USER/Warning: key "pageEditable" not found on object "".
+ERROR - 01/07/2025 13:36:34 --> USER/Warning: key "message" not found on object "".
+ERROR - 01/07/2025 13:44:51 --> USER/Warning: key "pageEditable" not found on object "".
+ERROR - 01/07/2025 13:44:51 --> USER/Warning: key "message" not found on object "".
+ERROR - 01/09/2025 12:30:48 --> USER/Warning: key "pageEditable" not found on object "".
+ERROR - 01/09/2025 12:30:48 --> USER/Warning: key "message" not found on object "".
+ERROR - 01/09/2025 12:31:03 --> USER/Warning: key "pageEditable" not found on object "".
+ERROR - 01/09/2025 12:31:03 --> USER/Warning: key "message" not found on object "".
+ERROR - 01/09/2025 12:34:20 --> USER/Warning: key "pageEditable" not found on object "".
+ERROR - 01/09/2025 12:34:20 --> USER/Warning: key "message" not found on object "".
+ERROR - 01/09/2025 12:34:26 --> USER/Warning: key "pageEditable" not found on object "".
+ERROR - 01/09/2025 12:34:26 --> USER/Warning: key "message" not found on object "".
+ERROR - 06/26/2025 09:55:07 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 09:55:46 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 09:57:35 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 10:03:23 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 10:04:21 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 10:04:22 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 10:04:23 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 10:04:33 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 10:05:02 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 10:05:37 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 10:24:00 --> BASE: "Error": ENOENT: no such file or directory, stat 'C:\REsources\img\photos\buildingsIndex.json'
+ERROR - 06/26/2025 10:24:33 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\websiteC:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\favicon.ico'
+ERROR - 06/26/2025 10:25:19 --> BASE: "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Controllers\Resources\img\photos\buildingsIndex.json'
+ERROR - 06/26/2025 10:25:20 --> BASE: "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Controllers\Resources\img\photos\buildingsIndex.json'
+ERROR - 06/26/2025 10:26:15 --> BASE: "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Controllers\Resources\img\photos\buildingsIndex.json'
+ERROR - 06/26/2025 10:26:31 --> BASE: "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Controllers\Resources\img\photos\buildingsIndex.json'
+ERROR - 06/26/2025 10:27:20 --> BASE: "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Controllers\Resources\img\photos\buildingsIndex.json'
+ERROR - 06/26/2025 10:27:45 --> BASE: "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Controllers\Resources\img\photos\buildingsIndex.json'
+ERROR - 06/26/2025 10:28:17 --> BASE: "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Controllers\Resources\img\photos\buildingsIndex.json'
+ERROR - 06/26/2025 10:29:08 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 10:30:01 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 10:30:03 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 10:32:06 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 10:34:19 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 10:34:35 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 10:35:03 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 10:38:56 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 10:39:11 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 10:39:37 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 10:39:59 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 10:40:39 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 10:40:56 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 10:41:11 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 10:41:37 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 10:50:55 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 10:50:55 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\one_1.png'
+ERROR - 06/26/2025 10:50:55 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\one_2.png'
+ERROR - 06/26/2025 10:50:55 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\two_1.png'
+ERROR - 06/26/2025 10:50:55 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\two_2.png'
+ERROR - 06/26/2025 10:50:55 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\two_3.png'
+ERROR - 06/26/2025 10:50:55 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\two_4.png'
+ERROR - 06/26/2025 10:50:55 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\two_5.png'
+ERROR - 06/26/2025 10:50:55 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\three_1.png'
+ERROR - 06/26/2025 10:50:55 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\three_2.png'
+ERROR - 06/26/2025 10:50:55 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\four_1.png'
+ERROR - 06/26/2025 10:50:55 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\five_1.png'
+ERROR - 06/26/2025 10:50:55 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\five_2.png'
+ERROR - 06/26/2025 10:50:55 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\five_3.png'
+ERROR - 06/26/2025 10:50:55 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\five_4.png'
+ERROR - 06/26/2025 10:50:55 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\five_5.png'
+ERROR - 06/26/2025 10:51:12 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 10:51:12 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\one_1.png'
+ERROR - 06/26/2025 10:51:12 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\one_2.png'
+ERROR - 06/26/2025 10:51:12 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\two_1.png'
+ERROR - 06/26/2025 10:51:12 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\two_2.png'
+ERROR - 06/26/2025 10:51:12 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\two_3.png'
+ERROR - 06/26/2025 10:51:12 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\two_5.png'
+ERROR - 06/26/2025 10:51:12 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\two_4.png'
+ERROR - 06/26/2025 10:51:12 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\three_1.png'
+ERROR - 06/26/2025 10:51:12 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\three_2.png'
+ERROR - 06/26/2025 10:51:12 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\four_1.png'
+ERROR - 06/26/2025 10:51:12 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\five_1.png'
+ERROR - 06/26/2025 10:51:12 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\five_2.png'
+ERROR - 06/26/2025 10:51:12 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\five_3.png'
+ERROR - 06/26/2025 10:51:12 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\five_5.png'
+ERROR - 06/26/2025 10:51:12 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\five_4.png'
+ERROR - 06/26/2025 10:51:14 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 10:51:14 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\one_1.png'
+ERROR - 06/26/2025 10:51:14 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\one_2.png'
+ERROR - 06/26/2025 10:51:14 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\two_1.png'
+ERROR - 06/26/2025 10:51:14 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\two_2.png'
+ERROR - 06/26/2025 10:51:14 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\two_3.png'
+ERROR - 06/26/2025 10:51:14 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\two_4.png'
+ERROR - 06/26/2025 10:51:14 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\two_5.png'
+ERROR - 06/26/2025 10:51:14 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\three_1.png'
+ERROR - 06/26/2025 10:51:14 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\three_2.png'
+ERROR - 06/26/2025 10:51:14 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\four_1.png'
+ERROR - 06/26/2025 10:51:14 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\five_1.png'
+ERROR - 06/26/2025 10:51:14 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\five_2.png'
+ERROR - 06/26/2025 10:51:14 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\five_3.png'
+ERROR - 06/26/2025 10:51:14 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\five_4.png'
+ERROR - 06/26/2025 10:51:14 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\five_5.png'
+ERROR - 06/26/2025 10:51:15 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 10:51:15 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\one_1.png'
+ERROR - 06/26/2025 10:51:15 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\one_2.png'
+ERROR - 06/26/2025 10:51:15 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\two_1.png'
+ERROR - 06/26/2025 10:51:15 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\two_2.png'
+ERROR - 06/26/2025 10:51:15 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\two_3.png'
+ERROR - 06/26/2025 10:51:15 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\two_4.png'
+ERROR - 06/26/2025 10:51:15 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\two_5.png'
+ERROR - 06/26/2025 10:51:15 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\five_3.png'
+ERROR - 06/26/2025 10:51:15 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\five_5.png'
+ERROR - 06/26/2025 10:51:15 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\five_2.png'
+ERROR - 06/26/2025 10:51:15 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\three_2.png'
+ERROR - 06/26/2025 10:51:15 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\four_1.png'
+ERROR - 06/26/2025 10:51:15 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\five_1.png'
+ERROR - 06/26/2025 10:51:15 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\three_1.png'
+ERROR - 06/26/2025 10:51:15 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\five_4.png'
+ERROR - 06/26/2025 10:51:16 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 10:51:16 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\one_1.png'
+ERROR - 06/26/2025 10:51:16 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\one_2.png'
+ERROR - 06/26/2025 10:51:16 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\two_1.png'
+ERROR - 06/26/2025 10:51:16 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\two_2.png'
+ERROR - 06/26/2025 10:51:16 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\two_3.png'
+ERROR - 06/26/2025 10:51:16 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\two_4.png'
+ERROR - 06/26/2025 10:51:16 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\two_5.png'
+ERROR - 06/26/2025 10:51:16 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\three_1.png'
+ERROR - 06/26/2025 10:51:16 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\three_2.png'
+ERROR - 06/26/2025 10:51:16 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\four_1.png'
+ERROR - 06/26/2025 10:51:16 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\five_1.png'
+ERROR - 06/26/2025 10:51:16 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\five_2.png'
+ERROR - 06/26/2025 10:51:16 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\five_3.png'
+ERROR - 06/26/2025 10:51:16 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\five_4.png'
+ERROR - 06/26/2025 10:51:16 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\five_5.png'
+ERROR - 06/26/2025 10:51:23 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 10:51:41 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 10:54:53 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 10:56:14 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 10:56:23 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 10:57:24 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 10:57:49 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 10:58:11 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 10:58:34 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 10:59:01 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 10:59:57 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:00:29 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:00:47 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:01:04 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:01:35 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:03:27 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:04:03 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:05:11 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:05:46 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:05:55 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:08:36 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:08:54 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:09:23 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:09:38 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:10:15 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:10:20 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:10:24 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:12:15 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:12:32 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:13:34 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:14:02 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:14:35 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:15:21 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:15:34 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:15:45 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:15:56 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:16:06 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:16:11 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:16:42 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:17:29 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:17:41 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:19:28 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:21:12 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:21:15 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:21:30 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:22:19 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:22:24 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:24:30 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:24:51 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:24:55 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:25:01 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:25:04 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:25:32 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:25:49 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:25:59 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:26:05 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:26:40 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:27:36 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:27:58 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:28:41 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:28:53 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:29:21 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:29:37 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:29:41 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:36:47 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:37:56 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:39:06 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:40:01 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:41:07 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:41:49 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:42:17 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:42:42 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:43:57 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:44:14 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:44:23 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:44:30 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:44:41 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:46:25 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:47:32 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:47:37 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:47:57 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:49:28 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:50:46 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:50:57 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:51:05 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:52:01 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:54:03 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:56:02 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:56:32 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:56:59 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:57:24 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:58:17 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:58:30 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 11:58:44 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:00:14 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:02:56 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:03:05 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:04:10 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:06:12 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:06:20 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:06:22 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:06:48 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:07:01 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:08:34 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:12:28 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:14:19 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:15:04 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:15:07 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:15:29 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:17:05 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:17:12 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:19:28 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:19:38 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:19:58 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:20:39 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:20:51 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:21:10 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:21:25 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:22:10 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:22:19 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:40:53 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:41:28 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:42:59 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:43:45 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:44:52 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:45:41 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:50:45 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:51:29 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:51:31 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:51:46 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:52:59 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:53:04 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:54:08 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:54:28 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:55:12 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:55:33 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 12:55:38 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 13:05:45 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 13:05:58 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 13:06:19 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 13:06:32 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 13:06:44 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 13:07:49 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 13:10:10 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 13:10:19 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 13:10:35 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 13:12:32 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 13:13:54 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 13:14:20 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 13:14:26 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 13:15:03 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 13:15:27 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 13:50:36 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 13:55:01 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 13:55:25 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:40:30 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:40:36 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:40:54 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:41:11 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:43:57 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:47:08 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:47:27 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:47:34 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:47:54 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:48:14 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:48:19 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:48:27 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:48:49 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:48:58 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:49:50 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:50:04 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:51:21 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:51:32 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:51:46 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:52:23 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:52:34 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:52:41 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:52:44 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:52:47 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:53:13 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:53:37 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:53:41 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:53:52 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:53:59 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:54:31 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:54:38 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:55:38 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:55:41 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:57:01 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:57:06 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:57:20 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:57:29 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:57:43 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:57:46 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:57:53 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:57:55 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:58:07 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:58:10 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 14:59:57 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 15:10:28 --> /Warning: key "pageHeader" not found on object "".
+ERROR - 06/26/2025 15:16:51 --> /Warning: key "pageHeader" not found on object "".

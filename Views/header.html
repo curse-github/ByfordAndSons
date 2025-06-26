@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/gs-table.css">
+        <link rel="stylesheet" href="/css/procedural.css">
+        <script src="/js/clientLib.js"></script>
+        <link rel="icon" type="image/png" href="/img/favicon.png"><!-- favicon -->
+        <title><!-- $site_title --> - <!-- $pageTitle --></title>
+    </head>
+    <body> <!-- gets ended in the footer-->
+        <div class="header">
+            <div class="float-left">
+                <a href="/<!-- IF($isLoggedIn){ -->user/landing<!-- } -->" class="headerlogo"></a>
+            </div>
+            <!-- IF ($isLoggedIn) { -->
+            <div class="float-right">
+                <a href="/user/view_profile"><!-- $userFullName --></a><br>
+                <a href="/login">Sign Out</a>
+            </div>
+            <!-- } -->
+        </div>
+        <div class="container"> <!-- gets ended in the footer-->
+            <h1 class="page-header"><!-- $pageHeader-->
+                <!-- IF ($pageEditable) { -->
+                <a href="<!-- $editLink -->" class="icon edit-icon"></a>
+                <!-- } -->
+            </h1>
+            <h3 class="page-header" style="color:red"><!-- $message--></h3>
