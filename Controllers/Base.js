@@ -36,9 +36,9 @@ class BASE extends controllerClass_1.Controller {
             this.sendPage("index");
         });
     }
-    buildingsIndex(args, query) {
+    photosIndex(args, query) {
         return __awaiter(this, void 0, void 0, function* () {
-            (0, Lib_1.sendFile)(this.res, __dirname.replace("\\Controllers", "") + "/Resources/img/photos/buildingsIndex.json", "BASE");
+            (0, Lib_1.sendFile)(this.res, __dirname.replace("\\Controllers", "") + "/Resources/img/photos/photosIndex.json", "BASE");
         });
     }
     login(args, query) {

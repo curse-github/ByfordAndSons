@@ -2610,3 +2610,1363 @@ DEBUG - 06/26/2025 15:16:45 --> Loading page "/landing" took 1.000000000000571ms
 DEBUG - 06/26/2025 15:16:51 --> Sucessfully loaded page "index".
 ERROR - 06/26/2025 15:16:51 --> /Warning: key "pageHeader" not found on object "".
 DEBUG - 06/26/2025 15:16:51 --> Loading page "/index" took 1.0000000000017133ms.
+INFO  - 06/26/2025 17:07:34 --> ====================================================================================
+INFO  - 06/26/2025 17:07:34 --> Server is running at http://mc.campbellsimpson.com:8082.
+DEBUG - 06/26/2025 17:24:51 --> Sucessfully loaded page "landing".
+DEBUG - 06/26/2025 17:24:51 --> Loading page "/landing" took 1.0000000000028555ms.
+DEBUG - 06/26/2025 17:24:52 --> Sucessfully loaded page "landing".
+DEBUG - 06/26/2025 17:24:52 --> Loading page "/landing" took 1.000000000000571ms.
+DEBUG - 06/26/2025 17:24:52 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 17:24:52 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 17:24:52 --> Loading page "/index" took 1.0000000000011422ms.
+DEBUG - 06/26/2025 18:20:04 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 18:20:04 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 18:20:04 --> Loading page "/index" took 1.0000000000011422ms.
+DEBUG - 06/26/2025 18:20:04 --> Sucessfully loaded page "buildingsIndex".
+DEBUG - 06/26/2025 18:20:04 --> Loading page "/buildingsIndex" took 1.000000000000571ms.
+DEBUG - 06/26/2025 18:20:07 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 18:20:07 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 18:20:07 --> Loading page "/index" took 1.0000000000017133ms.
+DEBUG - 06/26/2025 18:20:07 --> Sucessfully loaded page "buildingsIndex".
+DEBUG - 06/26/2025 18:20:07 --> Loading page "/buildingsIndex" took 1ms.
+DEBUG - 06/26/2025 19:16:58 --> Sucessfully loaded page "landing".
+DEBUG - 06/26/2025 19:16:58 --> Loading page "/landing" took 1.000000000000571ms.
+DEBUG - 06/26/2025 19:16:58 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 19:16:58 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 19:16:58 --> Loading page "/index" took 1.0000000000011422ms.
+DEBUG - 06/26/2025 19:16:58 --> Sucessfully loaded page "buildingsIndex".
+DEBUG - 06/26/2025 19:16:58 --> Loading page "/buildingsIndex" took 1.000000000000571ms.
+DEBUG - 06/26/2025 22:15:00 --> Sucessfully loaded page "landing".
+DEBUG - 06/26/2025 22:15:00 --> Loading page "/landing" took 1.0000000000011422ms.
+DEBUG - 06/26/2025 22:15:00 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 22:15:00 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 22:15:00 --> Loading page "/index" took 1.0000000000011422ms.
+DEBUG - 06/26/2025 22:15:01 --> Sucessfully loaded page "landing".
+DEBUG - 06/26/2025 22:15:01 --> Loading page "/landing" took 1.000000000000571ms.
+DEBUG - 06/26/2025 22:15:01 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 22:15:01 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 22:15:01 --> Loading page "/index" took 1.0000000000011422ms.
+DEBUG - 06/26/2025 22:15:02 --> Sucessfully loaded page "landing".
+DEBUG - 06/26/2025 22:15:02 --> Loading page "/landing" took 1.000000000000571ms.
+DEBUG - 06/26/2025 22:15:02 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 22:15:02 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 22:15:02 --> Loading page "/index" took 1.000000000000571ms.
+DEBUG - 06/26/2025 22:15:02 --> Sucessfully loaded page "landing".
+DEBUG - 06/26/2025 22:15:02 --> Loading page "/landing" took 1.000000000000571ms.
+DEBUG - 06/26/2025 22:15:02 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 22:15:02 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 22:15:03 --> Loading page "/index" took 1.0000000000011422ms.
+DEBUG - 06/26/2025 23:04:02 --> Sucessfully loaded page "landing".
+DEBUG - 06/26/2025 23:04:02 --> Loading page "/landing" took 1.0000000000039977ms.
+DEBUG - 06/26/2025 23:04:02 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:04:02 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:04:02 --> Loading page "/index" took 1.0000000000148488ms.
+DEBUG - 06/26/2025 23:05:46 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:05:46 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:05:46 --> Loading page "/index" took 1.0000000000017133ms.
+DEBUG - 06/26/2025 23:05:46 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:05:46 --> Loading page "/login" took 1.0000000000079954ms.
+DEBUG - 06/26/2025 23:05:47 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:05:47 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:05:47 --> Loading page "/index" took 1.0000000000011422ms.
+DEBUG - 06/26/2025 23:05:47 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:05:47 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:06:00 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:06:00 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:06:00 --> Loading page "/index" took 1.0000000000085665ms.
+ERROR - 06/26/2025 23:06:00 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\IMG_9898.jpg'
+DEBUG - 06/26/2025 23:06:02 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:06:02 --> Loading page "/login" took 1.0000000000011422ms.
+DEBUG - 06/26/2025 23:06:38 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:06:38 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:06:38 --> Loading page "/index" took 1.0000000000017133ms.
+DEBUG - 06/26/2025 23:06:38 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:06:38 --> Loading page "/login" took 1.000000000000571ms.
+ERROR - 06/26/2025 23:06:38 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\IMG_9898.jpg'
+DEBUG - 06/26/2025 23:06:55 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:06:55 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:06:55 --> Loading page "/index" took 1.0000000000085665ms.
+DEBUG - 06/26/2025 23:06:55 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:06:55 --> Loading page "/login" took 1.0000000000011422ms.
+DEBUG - 06/26/2025 23:07:13 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:07:13 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:07:13 --> Loading page "/index" took 1.0000000000085665ms.
+DEBUG - 06/26/2025 23:07:13 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:07:13 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:07:44 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:07:44 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:07:44 --> Loading page "/index" took 1.0000000000085665ms.
+DEBUG - 06/26/2025 23:07:44 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:07:44 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:08:18 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:08:18 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:08:18 --> Loading page "/index" took 1.0000000000085665ms.
+DEBUG - 06/26/2025 23:08:18 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:08:18 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:08:27 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:08:27 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:08:27 --> Loading page "/index" took 1.0000000000085665ms.
+DEBUG - 06/26/2025 23:08:27 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:08:27 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:09:29 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:09:29 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:09:29 --> Loading page "/index" took 1.0000000000085665ms.
+DEBUG - 06/26/2025 23:09:29 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:09:29 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:09:44 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:09:44 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:09:44 --> Loading page "/index" took 1.0000000000085665ms.
+DEBUG - 06/26/2025 23:09:44 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:09:44 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:10:36 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:10:36 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:10:36 --> Loading page "/index" took 1.0000000000079954ms.
+DEBUG - 06/26/2025 23:10:37 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:10:37 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:10:41 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:10:41 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:10:41 --> Loading page "/index" took 1.0000000000085665ms.
+DEBUG - 06/26/2025 23:10:41 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:10:41 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:11:02 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:11:02 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:11:02 --> Loading page "/index" took 1.0000000000091376ms.
+DEBUG - 06/26/2025 23:11:02 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:11:02 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:11:19 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:11:19 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:11:19 --> Loading page "/index" took 1.0000000000079954ms.
+DEBUG - 06/26/2025 23:11:19 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:11:19 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:15:41 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:15:41 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:15:41 --> Loading page "/index" took 1.0000000000085665ms.
+DEBUG - 06/26/2025 23:15:41 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:15:41 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:16:04 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:16:04 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:16:04 --> Loading page "/index" took 1.0000000000091376ms.
+DEBUG - 06/26/2025 23:16:04 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:16:04 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:16:10 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:16:10 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:16:10 --> Loading page "/index" took 1.0000000000079954ms.
+DEBUG - 06/26/2025 23:16:10 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:16:10 --> Loading page "/login" took 1.0000000000011422ms.
+DEBUG - 06/26/2025 23:16:33 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:16:33 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:16:33 --> Loading page "/index" took 1.0000000000091376ms.
+DEBUG - 06/26/2025 23:16:33 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:16:33 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:16:33 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:16:33 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:16:33 --> Loading page "/index" took 1.0000000000017133ms.
+DEBUG - 06/26/2025 23:16:33 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:16:33 --> Loading page "/login" took 1.0000000000011422ms.
+DEBUG - 06/26/2025 23:18:24 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:18:24 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:18:24 --> Loading page "/index" took 1.0000000000091376ms.
+DEBUG - 06/26/2025 23:18:24 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:18:24 --> Loading page "/login" took 1.0000000000011422ms.
+DEBUG - 06/26/2025 23:18:57 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:18:57 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:18:57 --> Loading page "/index" took 1.0000000000091376ms.
+DEBUG - 06/26/2025 23:18:57 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:18:57 --> Loading page "/login" took 1.0000000000011422ms.
+DEBUG - 06/26/2025 23:19:07 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:19:07 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:19:07 --> Loading page "/index" took 1.0000000000017133ms.
+DEBUG - 06/26/2025 23:19:07 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:19:07 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:19:24 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:19:24 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:19:24 --> Loading page "/index" took 1.0000000000091376ms.
+DEBUG - 06/26/2025 23:19:24 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:19:24 --> Loading page "/login" took 1.0000000000011422ms.
+DEBUG - 06/26/2025 23:19:52 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:19:52 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:19:52 --> Loading page "/index" took 1.0000000000079954ms.
+DEBUG - 06/26/2025 23:19:52 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:19:52 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:19:56 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:19:56 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:19:56 --> Loading page "/index" took 1.0000000000097087ms.
+DEBUG - 06/26/2025 23:19:56 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:19:56 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:20:14 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:20:14 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:20:14 --> Loading page "/index" took 1.0000000000097087ms.
+DEBUG - 06/26/2025 23:20:14 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:20:14 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:20:55 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:20:55 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:20:55 --> Loading page "/index" took 1.0000000000097087ms.
+DEBUG - 06/26/2025 23:20:55 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:20:55 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:21:36 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:21:36 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:21:36 --> Loading page "/index" took 1.0000000000079954ms.
+DEBUG - 06/26/2025 23:21:36 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:21:36 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:22:26 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:22:26 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:22:26 --> Loading page "/index" took 1.0000000000085665ms.
+DEBUG - 06/26/2025 23:22:26 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:22:26 --> Loading page "/login" took 1.0000000000011422ms.
+DEBUG - 06/26/2025 23:22:59 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:22:59 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:22:59 --> Loading page "/index" took 1.0000000000085665ms.
+DEBUG - 06/26/2025 23:22:59 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:22:59 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:23:13 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:23:13 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:23:13 --> Loading page "/index" took 1.0000000000017133ms.
+DEBUG - 06/26/2025 23:23:13 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:23:13 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:24:00 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:24:00 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:24:00 --> Loading page "/index" took 1.0000000000017133ms.
+DEBUG - 06/26/2025 23:24:00 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:24:00 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:24:26 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:24:26 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:24:26 --> Loading page "/index" took 1.0000000000085665ms.
+DEBUG - 06/26/2025 23:24:26 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:24:26 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:25:05 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:25:05 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:25:05 --> Loading page "/index" took 1.0000000000068532ms.
+DEBUG - 06/26/2025 23:25:05 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:25:05 --> Loading page "/login" took 1.0000000000011422ms.
+DEBUG - 06/26/2025 23:25:56 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:25:56 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:25:56 --> Loading page "/index" took 1.0000000000085665ms.
+DEBUG - 06/26/2025 23:25:56 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:25:56 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:26:31 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:26:31 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:26:31 --> Loading page "/index" took 1.0000000000022844ms.
+DEBUG - 06/26/2025 23:26:31 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:26:31 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:27:02 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:27:02 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:27:02 --> Loading page "/index" took 1.0000000000085665ms.
+DEBUG - 06/26/2025 23:27:02 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:27:02 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:27:56 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:27:56 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:27:56 --> Loading page "/index" took 1.0000000000022844ms.
+DEBUG - 06/26/2025 23:27:56 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:27:56 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:28:36 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:28:36 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:28:36 --> Loading page "/index" took 1.0000000000085665ms.
+DEBUG - 06/26/2025 23:28:36 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:28:36 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:29:03 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:29:03 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:29:03 --> Loading page "/index" took 1.0000000000085665ms.
+DEBUG - 06/26/2025 23:29:03 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:29:03 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:29:31 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:29:31 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:29:31 --> Loading page "/index" took 1.0000000000079954ms.
+DEBUG - 06/26/2025 23:29:31 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:29:31 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:29:54 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:29:54 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:29:54 --> Loading page "/index" took 1.0000000000017133ms.
+DEBUG - 06/26/2025 23:29:54 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:29:54 --> Loading page "/login" took 1.0000000000011422ms.
+DEBUG - 06/26/2025 23:30:05 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:30:05 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:30:05 --> Loading page "/index" took 1.0000000000085665ms.
+DEBUG - 06/26/2025 23:30:05 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:30:05 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:31:47 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:31:47 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:31:47 --> Loading page "/index" took 1.0000000000017133ms.
+DEBUG - 06/26/2025 23:31:47 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:31:47 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:35:08 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:35:08 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:35:08 --> Loading page "/index" took 1.0000000000079954ms.
+DEBUG - 06/26/2025 23:35:08 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:35:08 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:35:18 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:35:18 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:35:18 --> Loading page "/index" took 1.0000000000091376ms.
+DEBUG - 06/26/2025 23:35:18 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:35:18 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:35:46 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:35:46 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:35:46 --> Loading page "/index" took 1.0000000000085665ms.
+DEBUG - 06/26/2025 23:35:46 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:35:46 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:35:54 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:35:54 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:35:54 --> Loading page "/index" took 1.0000000000085665ms.
+DEBUG - 06/26/2025 23:35:54 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:35:54 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:37:07 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:37:07 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:37:07 --> Loading page "/index" took 1.0000000000022844ms.
+DEBUG - 06/26/2025 23:37:07 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:37:07 --> Loading page "/login" took 1.0000000000011422ms.
+DEBUG - 06/26/2025 23:37:07 --> Sucessfully loaded page "buildingsIndex".
+DEBUG - 06/26/2025 23:37:07 --> Loading page "/buildingsIndex" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:37:31 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:37:31 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:37:31 --> Loading page "/index" took 1.0000000000091376ms.
+DEBUG - 06/26/2025 23:37:31 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:37:31 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:37:31 --> Sucessfully loaded page "buildingsIndex".
+DEBUG - 06/26/2025 23:37:31 --> Loading page "/buildingsIndex" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:37:44 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:37:44 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:37:44 --> Loading page "/index" took 1.0000000000085665ms.
+DEBUG - 06/26/2025 23:37:44 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:37:44 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:37:44 --> Sucessfully loaded page "buildingsIndex".
+DEBUG - 06/26/2025 23:37:44 --> Loading page "/buildingsIndex" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:37:59 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:37:59 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:37:59 --> Loading page "/index" took 1.0000000000017133ms.
+DEBUG - 06/26/2025 23:37:59 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:37:59 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:37:59 --> Sucessfully loaded page "buildingsIndex".
+DEBUG - 06/26/2025 23:37:59 --> Loading page "/buildingsIndex" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:38:07 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:38:07 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:38:07 --> Loading page "/index" took 1.0000000000085665ms.
+DEBUG - 06/26/2025 23:38:07 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:38:07 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:38:07 --> Sucessfully loaded page "buildingsIndex".
+DEBUG - 06/26/2025 23:38:07 --> Loading page "/buildingsIndex" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:38:54 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:38:54 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:38:54 --> Loading page "/index" took 1.0000000000085665ms.
+DEBUG - 06/26/2025 23:38:54 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:38:54 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:38:54 --> Sucessfully loaded page "buildingsIndex".
+DEBUG - 06/26/2025 23:38:54 --> Loading page "/buildingsIndex" took 1ms.
+DEBUG - 06/26/2025 23:39:16 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:39:16 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:39:16 --> Loading page "/index" took 1.0000000000091376ms.
+DEBUG - 06/26/2025 23:39:16 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:39:16 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:39:16 --> Sucessfully loaded page "buildingsIndex".
+DEBUG - 06/26/2025 23:39:16 --> Loading page "/buildingsIndex" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:44:10 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:44:10 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:44:10 --> Loading page "/index" took 1.0000000000085665ms.
+DEBUG - 06/26/2025 23:44:10 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:44:10 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:44:10 --> Sucessfully loaded page "buildingsIndex".
+DEBUG - 06/26/2025 23:44:10 --> Loading page "/buildingsIndex" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:44:28 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:44:28 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:44:28 --> Loading page "/index" took 1.0000000000091376ms.
+DEBUG - 06/26/2025 23:44:29 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:44:29 --> Loading page "/login" took 1ms.
+DEBUG - 06/26/2025 23:44:29 --> Sucessfully loaded page "buildingsIndex".
+DEBUG - 06/26/2025 23:44:29 --> Loading page "/buildingsIndex" took 1ms.
+DEBUG - 06/26/2025 23:44:55 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:44:55 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:44:55 --> Loading page "/index" took 1.0000000000091376ms.
+DEBUG - 06/26/2025 23:44:55 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:44:55 --> Loading page "/login" took 1.0000000000011422ms.
+DEBUG - 06/26/2025 23:44:55 --> Sucessfully loaded page "buildingsIndex".
+DEBUG - 06/26/2025 23:44:55 --> Loading page "/buildingsIndex" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:45:36 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:45:36 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:45:36 --> Loading page "/index" took 1.0000000000085665ms.
+DEBUG - 06/26/2025 23:45:36 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:45:36 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:45:36 --> Sucessfully loaded page "buildingsIndex".
+DEBUG - 06/26/2025 23:45:36 --> Loading page "/buildingsIndex" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:45:51 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:45:51 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:45:51 --> Loading page "/index" took 1.0000000000085665ms.
+DEBUG - 06/26/2025 23:45:51 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:45:51 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:45:51 --> Sucessfully loaded page "buildingsIndex".
+DEBUG - 06/26/2025 23:45:51 --> Loading page "/buildingsIndex" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:46:05 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:46:05 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:46:05 --> Loading page "/index" took 1.0000000000079954ms.
+DEBUG - 06/26/2025 23:46:05 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:46:05 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:46:05 --> Sucessfully loaded page "buildingsIndex".
+DEBUG - 06/26/2025 23:46:05 --> Loading page "/buildingsIndex" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:46:14 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:46:14 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:46:14 --> Loading page "/index" took 1.0000000000085665ms.
+DEBUG - 06/26/2025 23:46:14 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:46:14 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:46:14 --> Sucessfully loaded page "buildingsIndex".
+DEBUG - 06/26/2025 23:46:14 --> Loading page "/buildingsIndex" took 1ms.
+DEBUG - 06/26/2025 23:47:23 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:47:23 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:47:23 --> Loading page "/index" took 1.0000000000011422ms.
+DEBUG - 06/26/2025 23:48:01 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:48:01 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:48:01 --> Loading page "/index" took 1.0000000000085665ms.
+DEBUG - 06/26/2025 23:48:01 --> Sucessfully loaded page "login".
+DEBUG - 06/26/2025 23:48:01 --> Loading page "/login" took 1.0000000000011422ms.
+DEBUG - 06/26/2025 23:48:01 --> Sucessfully loaded page "buildingsIndex".
+DEBUG - 06/26/2025 23:48:01 --> Loading page "/buildingsIndex" took 1ms.
+DEBUG - 06/26/2025 23:49:44 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:49:44 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:49:44 --> Loading page "/index" took 1.0000000000011422ms.
+DEBUG - 06/26/2025 23:49:44 --> Sucessfully loaded page "buildingsIndex".
+DEBUG - 06/26/2025 23:49:44 --> Loading page "/buildingsIndex" took 1ms.
+DEBUG - 06/26/2025 23:49:49 --> Sucessfully loaded page "index".
+ERROR - 06/26/2025 23:49:49 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/26/2025 23:49:49 --> Loading page "/index" took 1.000000000000571ms.
+DEBUG - 06/26/2025 23:49:49 --> Sucessfully loaded page "buildingsIndex".
+DEBUG - 06/26/2025 23:49:49 --> Loading page "/buildingsIndex" took 1.000000000000571ms.
+DEBUG - 06/27/2025 05:03:16 --> Sucessfully loaded page "landing".
+DEBUG - 06/27/2025 05:03:16 --> Loading page "/landing" took 1.0000000000051399ms.
+DEBUG - 06/27/2025 05:03:17 --> Sucessfully loaded page "index".
+ERROR - 06/27/2025 05:03:17 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/27/2025 05:03:17 --> Loading page "/index" took 1.0000000000017133ms.
+INFO  - 06/27/2025 10:52:37 --> ====================================================================================
+INFO  - 06/27/2025 10:52:37 --> Server is running at http://mc.campbellsimpson.com:8082.
+DEBUG - 06/27/2025 10:52:44 --> Sucessfully loaded page "landing".
+DEBUG - 06/27/2025 10:52:44 --> Loading page "/landing" took 1.0000000000034266ms.
+DEBUG - 06/27/2025 10:52:44 --> Sucessfully loaded page "index".
+ERROR - 06/27/2025 10:52:44 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/27/2025 10:52:44 --> Loading page "/index" took 1.0000000000154194ms.
+DEBUG - 06/27/2025 10:52:44 --> Sucessfully loaded page "login".
+DEBUG - 06/27/2025 10:52:44 --> Loading page "/login" took 1.0000000000108507ms.
+DEBUG - 06/27/2025 10:52:44 --> Sucessfully loaded page "buildingsIndex".
+DEBUG - 06/27/2025 10:52:44 --> Loading page "/buildingsIndex" took 1.000000000000571ms.
+DEBUG - 06/27/2025 10:53:37 --> Sucessfully loaded page "login".
+DEBUG - 06/27/2025 10:53:37 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/27/2025 10:53:37 --> Sucessfully loaded page "login".
+DEBUG - 06/27/2025 10:53:37 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/27/2025 10:53:40 --> Sucessfully loaded page "login".
+DEBUG - 06/27/2025 10:53:40 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/27/2025 10:53:40 --> Sucessfully loaded page "login".
+DEBUG - 06/27/2025 10:53:40 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/27/2025 10:55:18 --> Sucessfully loaded page "index".
+ERROR - 06/27/2025 10:55:18 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/27/2025 10:55:18 --> Loading page "/index" took 1.0000000000085663ms.
+DEBUG - 06/27/2025 10:55:18 --> Sucessfully loaded page "login".
+DEBUG - 06/27/2025 10:55:18 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/27/2025 10:55:18 --> Sucessfully loaded page "buildingsIndex".
+DEBUG - 06/27/2025 10:55:18 --> Loading page "/buildingsIndex" took 1.000000000000571ms.
+DEBUG - 06/27/2025 11:00:12 --> Sucessfully loaded page "index".
+ERROR - 06/27/2025 11:00:12 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/27/2025 11:00:12 --> Loading page "/index" took 1.0000000000017133ms.
+DEBUG - 06/27/2025 11:00:12 --> Sucessfully loaded page "login".
+DEBUG - 06/27/2025 11:00:12 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/27/2025 11:00:12 --> Sucessfully loaded page "buildingsIndex".
+DEBUG - 06/27/2025 11:00:12 --> Loading page "/buildingsIndex" took 1ms.
+DEBUG - 06/27/2025 11:00:17 --> Sucessfully loaded page "index".
+ERROR - 06/27/2025 11:00:17 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/27/2025 11:00:17 --> Loading page "/index" took 1.0000000000011422ms.
+DEBUG - 06/27/2025 11:00:17 --> Sucessfully loaded page "login".
+DEBUG - 06/27/2025 11:00:17 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/27/2025 11:00:17 --> Sucessfully loaded page "buildingsIndex".
+DEBUG - 06/27/2025 11:00:17 --> Loading page "/buildingsIndex" took 1.000000000000571ms.
+DEBUG - 06/27/2025 11:00:27 --> Sucessfully loaded page "index".
+ERROR - 06/27/2025 11:00:27 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/27/2025 11:00:27 --> Loading page "/index" took 1.0000000000011422ms.
+DEBUG - 06/27/2025 11:00:27 --> Sucessfully loaded page "login".
+DEBUG - 06/27/2025 11:00:27 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/27/2025 11:00:27 --> Sucessfully loaded page "buildingsIndex".
+DEBUG - 06/27/2025 11:00:27 --> Loading page "/buildingsIndex" took 1.000000000000571ms.
+DEBUG - 06/27/2025 11:00:29 --> Sucessfully loaded page "index".
+ERROR - 06/27/2025 11:00:29 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/27/2025 11:00:29 --> Loading page "/index" took 1.0000000000011422ms.
+DEBUG - 06/27/2025 11:00:29 --> Sucessfully loaded page "login".
+DEBUG - 06/27/2025 11:00:29 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/27/2025 11:00:29 --> Sucessfully loaded page "buildingsIndex".
+DEBUG - 06/27/2025 11:00:29 --> Loading page "/buildingsIndex" took 1.000000000000571ms.
+DEBUG - 06/27/2025 11:01:02 --> Sucessfully loaded page "index".
+ERROR - 06/27/2025 11:01:02 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/27/2025 11:01:02 --> Loading page "/index" took 1.0000000000017133ms.
+DEBUG - 06/27/2025 11:01:02 --> Sucessfully loaded page "login".
+DEBUG - 06/27/2025 11:01:02 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/27/2025 11:01:02 --> Sucessfully loaded page "buildingsIndex".
+DEBUG - 06/27/2025 11:01:02 --> Loading page "/buildingsIndex" took 1.0000000000011422ms.
+DEBUG - 06/27/2025 11:01:39 --> Sucessfully loaded page "index".
+ERROR - 06/27/2025 11:01:39 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/27/2025 11:01:39 --> Loading page "/index" took 1.0000000000017133ms.
+DEBUG - 06/27/2025 11:01:39 --> Sucessfully loaded page "login".
+DEBUG - 06/27/2025 11:01:39 --> Loading page "/login" took 1.0000000000017133ms.
+DEBUG - 06/27/2025 11:01:39 --> Sucessfully loaded page "buildingsIndex".
+DEBUG - 06/27/2025 11:01:39 --> Loading page "/buildingsIndex" took 1ms.
+DEBUG - 06/27/2025 11:01:41 --> Sucessfully loaded page "index".
+ERROR - 06/27/2025 11:01:41 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/27/2025 11:01:41 --> Loading page "/index" took 1.0000000000017133ms.
+DEBUG - 06/27/2025 11:01:41 --> Sucessfully loaded page "login".
+DEBUG - 06/27/2025 11:01:41 --> Loading page "/login" took 1ms.
+DEBUG - 06/27/2025 11:01:41 --> Sucessfully loaded page "buildingsIndex".
+DEBUG - 06/27/2025 11:01:41 --> Loading page "/buildingsIndex" took 1.000000000000571ms.
+DEBUG - 06/27/2025 11:02:24 --> Sucessfully loaded page "index".
+ERROR - 06/27/2025 11:02:24 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/27/2025 11:02:24 --> Loading page "/index" took 1.0000000000017133ms.
+DEBUG - 06/27/2025 11:02:24 --> Sucessfully loaded page "login".
+DEBUG - 06/27/2025 11:02:24 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/27/2025 11:02:24 --> Sucessfully loaded page "buildingsIndex".
+DEBUG - 06/27/2025 11:02:24 --> Loading page "/buildingsIndex" took 1.000000000000571ms.
+DEBUG - 06/27/2025 11:02:29 --> Sucessfully loaded page "index".
+ERROR - 06/27/2025 11:02:29 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/27/2025 11:02:29 --> Loading page "/index" took 1.0000000000091374ms.
+DEBUG - 06/27/2025 11:02:29 --> Sucessfully loaded page "login".
+DEBUG - 06/27/2025 11:02:29 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/27/2025 11:02:29 --> Sucessfully loaded page "buildingsIndex".
+DEBUG - 06/27/2025 11:02:29 --> Loading page "/buildingsIndex" took 1.000000000000571ms.
+DEBUG - 06/27/2025 11:04:27 --> Sucessfully loaded page "index".
+ERROR - 06/27/2025 11:04:27 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/27/2025 11:04:27 --> Loading page "/index" took 1.0000000000079952ms.
+DEBUG - 06/27/2025 11:04:27 --> Sucessfully loaded page "login".
+DEBUG - 06/27/2025 11:04:27 --> Loading page "/login" took 1.0000000000011422ms.
+DEBUG - 06/27/2025 11:04:27 --> Sucessfully loaded page "buildingsIndex".
+DEBUG - 06/27/2025 11:04:27 --> Loading page "/buildingsIndex" took 1.0000000000011422ms.
+DEBUG - 06/27/2025 11:04:48 --> Sucessfully loaded page "index".
+ERROR - 06/27/2025 11:04:48 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/27/2025 11:04:48 --> Loading page "/index" took 1.0000000000085663ms.
+DEBUG - 06/27/2025 11:04:48 --> Sucessfully loaded page "login".
+DEBUG - 06/27/2025 11:04:48 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/27/2025 11:04:48 --> Sucessfully loaded page "buildingsIndex".
+DEBUG - 06/27/2025 11:04:48 --> Loading page "/buildingsIndex" took 1.000000000000571ms.
+DEBUG - 06/27/2025 11:05:07 --> Sucessfully loaded page "index".
+ERROR - 06/27/2025 11:05:07 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/27/2025 11:05:07 --> Loading page "/index" took 1.0000000000085663ms.
+DEBUG - 06/27/2025 11:05:07 --> Sucessfully loaded page "login".
+DEBUG - 06/27/2025 11:05:07 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/27/2025 11:05:07 --> Sucessfully loaded page "buildingsIndex".
+DEBUG - 06/27/2025 11:05:07 --> Loading page "/buildingsIndex" took 1.000000000000571ms.
+DEBUG - 06/27/2025 11:05:36 --> Sucessfully loaded page "index".
+ERROR - 06/27/2025 11:05:36 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/27/2025 11:05:36 --> Loading page "/index" took 1.0000000000085663ms.
+DEBUG - 06/27/2025 11:05:36 --> Sucessfully loaded page "login".
+DEBUG - 06/27/2025 11:05:36 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/27/2025 11:05:36 --> Sucessfully loaded page "buildingsIndex".
+DEBUG - 06/27/2025 11:05:36 --> Loading page "/buildingsIndex" took 1.000000000000571ms.
+INFO  - 06/27/2025 11:11:57 --> ====================================================================================
+INFO  - 06/27/2025 11:11:57 --> Server is running at http://mc.campbellsimpson.com:8082.
+DEBUG - 06/27/2025 11:11:59 --> Sucessfully loaded page "index".
+ERROR - 06/27/2025 11:11:59 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/27/2025 11:11:59 --> Loading page "/index" took 1.0000000000045688ms.
+DEBUG - 06/27/2025 11:11:59 --> Sucessfully loaded page "login".
+DEBUG - 06/27/2025 11:11:59 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/27/2025 11:11:59 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/27/2025 11:11:59 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/27/2025 11:12:57 --> Sucessfully loaded page "index".
+ERROR - 06/27/2025 11:12:57 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/27/2025 11:12:57 --> Loading page "/index" took 1.0000000000011422ms.
+DEBUG - 06/27/2025 11:12:57 --> Sucessfully loaded page "login".
+DEBUG - 06/27/2025 11:12:57 --> Loading page "/login" took 1.0000000000011422ms.
+DEBUG - 06/27/2025 11:12:57 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/27/2025 11:12:57 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/27/2025 11:14:19 --> Sucessfully loaded page "index".
+ERROR - 06/27/2025 11:14:19 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/27/2025 11:14:19 --> Loading page "/index" took 1.0000000000091374ms.
+DEBUG - 06/27/2025 11:14:19 --> Sucessfully loaded page "login".
+DEBUG - 06/27/2025 11:14:19 --> Loading page "/login" took 1.0000000000011422ms.
+DEBUG - 06/27/2025 11:14:19 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/27/2025 11:14:19 --> Loading page "/photosIndex" took 1.0000000000011422ms.
+DEBUG - 06/27/2025 11:14:29 --> Sucessfully loaded page "index".
+ERROR - 06/27/2025 11:14:29 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/27/2025 11:14:29 --> Loading page "/index" took 1.0000000000085663ms.
+DEBUG - 06/27/2025 11:14:29 --> Sucessfully loaded page "login".
+DEBUG - 06/27/2025 11:14:29 --> Loading page "/login" took 1.0000000000011422ms.
+DEBUG - 06/27/2025 11:14:29 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/27/2025 11:14:29 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/27/2025 11:14:48 --> Sucessfully loaded page "index".
+ERROR - 06/27/2025 11:14:48 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/27/2025 11:14:48 --> Loading page "/index" took 1.0000000000079952ms.
+DEBUG - 06/27/2025 11:14:48 --> Sucessfully loaded page "login".
+DEBUG - 06/27/2025 11:14:48 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/27/2025 11:14:48 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/27/2025 11:14:48 --> Loading page "/photosIndex" took 1ms.
+DEBUG - 06/27/2025 11:17:57 --> Sucessfully loaded page "index".
+ERROR - 06/27/2025 11:17:57 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/27/2025 11:17:57 --> Loading page "/index" took 1.0000000000011422ms.
+DEBUG - 06/27/2025 11:17:57 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/27/2025 11:17:57 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/27/2025 11:18:15 --> Sucessfully loaded page "index".
+ERROR - 06/27/2025 11:18:15 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/27/2025 11:18:15 --> Loading page "/index" took 1.0000000000085663ms.
+DEBUG - 06/27/2025 11:18:15 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/27/2025 11:18:15 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/27/2025 11:18:20 --> Sucessfully loaded page "index".
+ERROR - 06/27/2025 11:18:20 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/27/2025 11:18:20 --> Loading page "/index" took 1.0000000000085663ms.
+DEBUG - 06/27/2025 11:18:20 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/27/2025 11:18:20 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/27/2025 11:18:22 --> Sucessfully loaded page "index".
+ERROR - 06/27/2025 11:18:22 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/27/2025 11:18:22 --> Loading page "/index" took 1.0000000000011422ms.
+DEBUG - 06/27/2025 11:18:22 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/27/2025 11:18:22 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/27/2025 11:18:45 --> Sucessfully loaded page "index".
+ERROR - 06/27/2025 11:18:45 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/27/2025 11:18:45 --> Loading page "/index" took 1.0000000000017133ms.
+DEBUG - 06/27/2025 11:18:45 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/27/2025 11:18:45 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/27/2025 11:22:55 --> Sucessfully loaded page "index".
+ERROR - 06/27/2025 11:22:55 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/27/2025 11:22:55 --> Loading page "/index" took 1.0000000000085663ms.
+DEBUG - 06/27/2025 11:22:55 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/27/2025 11:22:55 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/27/2025 11:23:14 --> Sucessfully loaded page "index".
+ERROR - 06/27/2025 11:23:14 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/27/2025 11:23:14 --> Loading page "/index" took 1.0000000000017133ms.
+DEBUG - 06/27/2025 11:23:14 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/27/2025 11:23:14 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/27/2025 15:59:41 --> Sucessfully loaded page "landing".
+DEBUG - 06/27/2025 15:59:41 --> Loading page "/landing" took 1.0000000000011422ms.
+DEBUG - 06/27/2025 15:59:56 --> Sucessfully loaded page "index".
+ERROR - 06/27/2025 15:59:56 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/27/2025 15:59:56 --> Loading page "/index" took 1.0000000000022844ms.
+DEBUG - 06/27/2025 16:43:46 --> Sucessfully loaded page "landing".
+DEBUG - 06/27/2025 16:43:46 --> Loading page "/landing" took 1.0000000000011422ms.
+DEBUG - 06/27/2025 17:21:35 --> Sucessfully loaded page "login".
+DEBUG - 06/27/2025 17:21:35 --> Loading page "/login" took 1.0000000000011422ms.
+DEBUG - 06/27/2025 17:22:16 --> Sucessfully loaded page "index".
+ERROR - 06/27/2025 17:22:16 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/27/2025 17:22:16 --> Loading page "/index" took 1.0000000000085663ms.
+DEBUG - 06/27/2025 17:22:16 --> Sucessfully loaded page "login".
+DEBUG - 06/27/2025 17:22:16 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/27/2025 17:22:16 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/27/2025 17:22:16 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/27/2025 17:22:26 --> Sucessfully loaded page "index".
+ERROR - 06/27/2025 17:22:26 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/27/2025 17:22:26 --> Loading page "/index" took 1.0000000000085663ms.
+DEBUG - 06/27/2025 17:22:26 --> Sucessfully loaded page "login".
+DEBUG - 06/27/2025 17:22:26 --> Loading page "/login" took 1.0000000000011422ms.
+DEBUG - 06/27/2025 17:22:26 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/27/2025 17:22:26 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/27/2025 17:22:45 --> Sucessfully loaded page "index".
+ERROR - 06/27/2025 17:22:45 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/27/2025 17:22:45 --> Loading page "/index" took 1.0000000000085663ms.
+DEBUG - 06/27/2025 17:22:45 --> Sucessfully loaded page "login".
+DEBUG - 06/27/2025 17:22:45 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/27/2025 17:22:45 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/27/2025 17:22:45 --> Loading page "/photosIndex" took 1.0000000000011422ms.
+DEBUG - 06/27/2025 17:22:59 --> Sucessfully loaded page "index".
+ERROR - 06/27/2025 17:22:59 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/27/2025 17:22:59 --> Loading page "/index" took 1.0000000000085663ms.
+DEBUG - 06/27/2025 17:22:59 --> Sucessfully loaded page "login".
+DEBUG - 06/27/2025 17:22:59 --> Loading page "/login" took 1.0000000000011422ms.
+DEBUG - 06/27/2025 17:22:59 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/27/2025 17:22:59 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/27/2025 17:23:07 --> Sucessfully loaded page "index".
+ERROR - 06/27/2025 17:23:07 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/27/2025 17:23:07 --> Loading page "/index" took 1.0000000000017133ms.
+DEBUG - 06/27/2025 17:23:07 --> Sucessfully loaded page "login".
+DEBUG - 06/27/2025 17:23:07 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/27/2025 17:23:07 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/27/2025 17:23:07 --> Loading page "/photosIndex" took 1ms.
+DEBUG - 06/27/2025 17:23:17 --> Sucessfully loaded page "index".
+ERROR - 06/27/2025 17:23:17 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/27/2025 17:23:17 --> Loading page "/index" took 1.0000000000091374ms.
+DEBUG - 06/27/2025 17:23:17 --> Sucessfully loaded page "login".
+DEBUG - 06/27/2025 17:23:17 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/27/2025 17:23:17 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/27/2025 17:23:17 --> Loading page "/photosIndex" took 1.000000000000571ms.
+INFO  - 06/27/2025 17:30:07 --> ====================================================================================
+INFO  - 06/27/2025 17:30:07 --> Server is running at http://mc.campbellsimpson.com:8082.
+DEBUG - 06/27/2025 17:38:27 --> Sucessfully loaded page "index".
+ERROR - 06/27/2025 17:38:27 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/27/2025 17:38:27 --> Loading page "/index" took 1.0000000000039975ms.
+DEBUG - 06/27/2025 17:38:27 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/27/2025 17:38:27 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/27/2025 17:42:00 --> Sucessfully loaded page "landing".
+DEBUG - 06/27/2025 17:42:00 --> Loading page "/landing" took 1.000000000000571ms.
+DEBUG - 06/27/2025 17:42:56 --> Sucessfully loaded page "landing".
+DEBUG - 06/27/2025 17:42:56 --> Loading page "/landing" took 1.000000000000571ms.
+DEBUG - 06/27/2025 17:42:57 --> Sucessfully loaded page "index".
+ERROR - 06/27/2025 17:42:57 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/27/2025 17:42:57 --> Loading page "/index" took 1.0000000000011422ms.
+DEBUG - 06/27/2025 20:11:11 --> Sucessfully loaded page "index".
+ERROR - 06/27/2025 20:11:11 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/27/2025 20:11:11 --> Loading page "/index" took 1.0000000000011422ms.
+ERROR - 06/27/2025 20:11:12 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\two_3.jpg'
+ERROR - 06/27/2025 20:11:12 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\two_5.jpg'
+ERROR - 06/27/2025 20:11:12 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\seven_3.jpg'
+ERROR - 06/27/2025 20:11:12 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\photos\seven_4.jpg'
+DEBUG - 06/27/2025 20:11:12 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/27/2025 20:11:12 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/28/2025 01:10:18 --> Sucessfully loaded page "landing".
+DEBUG - 06/28/2025 01:10:18 --> Loading page "/landing" took 1.0000000000045686ms.
+DEBUG - 06/28/2025 01:11:21 --> Sucessfully loaded page "landing".
+DEBUG - 06/28/2025 01:11:21 --> Loading page "/landing" took 1.000000000000571ms.
+DEBUG - 06/28/2025 01:11:22 --> Sucessfully loaded page "index".
+ERROR - 06/28/2025 01:11:22 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/28/2025 01:11:22 --> Loading page "/index" took 1.00000000001599ms.
+DEBUG - 06/28/2025 01:31:34 --> Sucessfully loaded page "landing".
+DEBUG - 06/28/2025 01:31:34 --> Loading page "/landing" took 1.0000000000011422ms.
+DEBUG - 06/28/2025 01:31:34 --> Sucessfully loaded page "index".
+ERROR - 06/28/2025 01:31:34 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/28/2025 01:31:34 --> Loading page "/index" took 1.000000000000571ms.
+DEBUG - 06/28/2025 01:33:43 --> Sucessfully loaded page "landing".
+DEBUG - 06/28/2025 01:33:43 --> Loading page "/landing" took 1.0000000000011422ms.
+DEBUG - 06/28/2025 07:51:30 --> Sucessfully loaded page "landing".
+DEBUG - 06/28/2025 07:51:30 --> Loading page "/landing" took 1.0000000000045686ms.
+DEBUG - 06/28/2025 10:56:24 --> Sucessfully loaded page "landing".
+DEBUG - 06/28/2025 10:56:24 --> Loading page "/landing" took 1.000000000000571ms.
+DEBUG - 06/28/2025 10:57:23 --> Sucessfully loaded page "landing".
+DEBUG - 06/28/2025 10:57:23 --> Loading page "/landing" took 1.000000000000571ms.
+DEBUG - 06/28/2025 10:57:23 --> Sucessfully loaded page "index".
+ERROR - 06/28/2025 10:57:23 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/28/2025 10:57:23 --> Loading page "/index" took 1.0000000000137055ms.
+DEBUG - 06/28/2025 12:09:24 --> Sucessfully loaded page "landing".
+DEBUG - 06/28/2025 12:09:24 --> Loading page "/landing" took 1.0000000000011422ms.
+DEBUG - 06/28/2025 12:09:34 --> Sucessfully loaded page "landing".
+DEBUG - 06/28/2025 12:09:34 --> Loading page "/landing" took 1.000000000000571ms.
+DEBUG - 06/28/2025 12:09:39 --> Sucessfully loaded page "index".
+ERROR - 06/28/2025 12:09:39 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/28/2025 12:09:39 --> Loading page "/index" took 1.0000000000011422ms.
+DEBUG - 06/28/2025 12:28:44 --> Sucessfully loaded page "landing".
+DEBUG - 06/28/2025 12:28:44 --> Loading page "/landing" took 1.000000000000571ms.
+DEBUG - 06/28/2025 12:28:54 --> Sucessfully loaded page "landing".
+DEBUG - 06/28/2025 12:28:54 --> Loading page "/landing" took 1.000000000000571ms.
+DEBUG - 06/28/2025 12:28:57 --> Sucessfully loaded page "index".
+ERROR - 06/28/2025 12:28:57 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/28/2025 12:28:57 --> Loading page "/index" took 1.000000000001713ms.
+DEBUG - 06/28/2025 14:23:24 --> Sucessfully loaded page "landing".
+DEBUG - 06/28/2025 14:23:24 --> Loading page "/landing" took 1.000000000000571ms.
+DEBUG - 06/28/2025 15:59:10 --> Sucessfully loaded page "landing".
+DEBUG - 06/28/2025 15:59:10 --> Loading page "/landing" took 1.000000000000571ms.
+DEBUG - 06/28/2025 23:35:20 --> Sucessfully loaded page "landing".
+DEBUG - 06/28/2025 23:35:20 --> Loading page "/landing" took 1.0000000000045683ms.
+DEBUG - 06/28/2025 23:36:47 --> Sucessfully loaded page "landing".
+DEBUG - 06/28/2025 23:36:47 --> Loading page "/landing" took 1.000000000000571ms.
+DEBUG - 06/28/2025 23:36:47 --> Sucessfully loaded page "index".
+ERROR - 06/28/2025 23:36:47 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/28/2025 23:36:47 --> Loading page "/index" took 1.0000000000154183ms.
+DEBUG - 06/29/2025 00:53:00 --> Sucessfully loaded page "landing".
+DEBUG - 06/29/2025 00:53:00 --> Loading page "/landing" took 1.0000000000011422ms.
+DEBUG - 06/29/2025 00:53:00 --> Sucessfully loaded page "landing".
+DEBUG - 06/29/2025 00:53:00 --> Loading page "/landing" took 1.000000000000571ms.
+DEBUG - 06/29/2025 00:53:00 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 00:53:00 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 00:53:00 --> Loading page "/index" took 1.0000000000085656ms.
+DEBUG - 06/29/2025 01:25:52 --> Sucessfully loaded page "landing".
+DEBUG - 06/29/2025 01:25:52 --> Loading page "/landing" took 1.0000000000011422ms.
+DEBUG - 06/29/2025 01:25:52 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 01:25:52 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 01:25:52 --> Loading page "/index" took 1.0000000000011422ms.
+DEBUG - 06/29/2025 01:28:34 --> Sucessfully loaded page "landing".
+DEBUG - 06/29/2025 01:28:34 --> Loading page "/landing" took 1.000000000000571ms.
+DEBUG - 06/29/2025 07:06:00 --> Sucessfully loaded page "landing".
+DEBUG - 06/29/2025 07:06:00 --> Loading page "/landing" took 1.000000000001142ms.
+DEBUG - 06/29/2025 07:06:09 --> Sucessfully loaded page "landing".
+DEBUG - 06/29/2025 07:06:09 --> Loading page "/landing" took 1.000000000000571ms.
+DEBUG - 06/29/2025 07:06:12 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 07:06:12 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 07:06:12 --> Loading page "/index" took 1.000000000000571ms.
+DEBUG - 06/29/2025 12:26:09 --> Sucessfully loaded page "landing".
+DEBUG - 06/29/2025 12:26:09 --> Loading page "/landing" took 1.000000000000571ms.
+DEBUG - 06/29/2025 12:27:09 --> Sucessfully loaded page "landing".
+DEBUG - 06/29/2025 12:27:09 --> Loading page "/landing" took 1.000000000000571ms.
+DEBUG - 06/29/2025 12:27:09 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 12:27:09 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 12:27:09 --> Loading page "/index" took 1.000000000000571ms.
+DEBUG - 06/29/2025 13:41:04 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 13:41:04 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 13:41:04 --> Loading page "/index" took 1.0000000000097076ms.
+DEBUG - 06/29/2025 13:41:04 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 13:41:04 --> Loading page "/login" took 1.0000000000074234ms.
+DEBUG - 06/29/2025 13:41:04 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 13:41:04 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 13:46:00 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 13:46:00 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 13:46:00 --> Loading page "/index" took 1.0000000000085654ms.
+DEBUG - 06/29/2025 13:46:00 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 13:46:00 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 13:46:00 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 13:46:00 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 13:46:22 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 13:46:22 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 13:46:22 --> Loading page "/index" took 1.0000000000085654ms.
+DEBUG - 06/29/2025 13:46:22 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 13:46:22 --> Loading page "/login" took 1.000000000001142ms.
+DEBUG - 06/29/2025 13:46:22 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 13:46:22 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 13:46:35 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 13:46:35 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 13:46:35 --> Loading page "/index" took 1.000000000001713ms.
+DEBUG - 06/29/2025 13:47:47 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 13:47:47 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 13:47:47 --> Loading page "/index" took 1.000000000001142ms.
+DEBUG - 06/29/2025 13:47:47 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 13:47:47 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 13:47:47 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 13:47:47 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 13:47:55 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 13:47:55 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 13:47:55 --> Loading page "/index" took 1.0000000000079945ms.
+DEBUG - 06/29/2025 13:47:55 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 13:47:55 --> Loading page "/login" took 1ms.
+DEBUG - 06/29/2025 13:47:55 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 13:47:55 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 13:48:16 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 13:48:16 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 13:48:16 --> Loading page "/index" took 1.000000000001713ms.
+DEBUG - 06/29/2025 13:48:16 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 13:48:16 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 13:48:16 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 13:48:16 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 13:48:23 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 13:48:23 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 13:48:23 --> Loading page "/index" took 1.000000000001713ms.
+DEBUG - 06/29/2025 13:48:23 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 13:48:23 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 13:48:23 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 13:48:23 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 13:49:36 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 13:49:36 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 13:49:36 --> Loading page "/index" took 1.0000000000085654ms.
+DEBUG - 06/29/2025 13:49:36 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 13:49:36 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 13:49:36 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 13:49:36 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 13:50:04 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 13:50:05 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 13:50:05 --> Loading page "/index" took 1.0000000000091365ms.
+DEBUG - 06/29/2025 13:50:05 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 13:50:05 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 13:50:05 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 13:50:05 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 13:50:10 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 13:50:10 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 13:50:10 --> Loading page "/index" took 1.000000000001713ms.
+DEBUG - 06/29/2025 13:50:10 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 13:50:10 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 13:50:10 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 13:50:10 --> Loading page "/photosIndex" took 1ms.
+DEBUG - 06/29/2025 13:50:18 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 13:50:18 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 13:50:18 --> Loading page "/index" took 1.0000000000097076ms.
+DEBUG - 06/29/2025 13:50:18 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 13:50:18 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 13:50:18 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 13:50:18 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 13:50:43 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 13:50:43 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 13:50:43 --> Loading page "/index" took 1.000000000001713ms.
+DEBUG - 06/29/2025 13:50:43 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 13:50:43 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 13:51:01 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 13:51:01 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 13:51:01 --> Loading page "/index" took 1.0000000000097076ms.
+DEBUG - 06/29/2025 13:51:01 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 13:51:01 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 13:51:10 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 13:51:10 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 13:51:10 --> Loading page "/index" took 1.000000000001713ms.
+DEBUG - 06/29/2025 13:51:10 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 13:51:10 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 13:51:53 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 13:51:53 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 13:51:53 --> Loading page "/index" took 1.0000000000085654ms.
+DEBUG - 06/29/2025 13:51:53 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 13:51:53 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 13:52:06 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 13:52:06 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 13:52:06 --> Loading page "/index" took 1.0000000000085654ms.
+DEBUG - 06/29/2025 13:52:06 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 13:52:06 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 13:52:21 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 13:52:21 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 13:52:21 --> Loading page "/index" took 1.0000000000091365ms.
+DEBUG - 06/29/2025 13:52:21 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 13:52:21 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 13:52:46 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 13:52:46 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 13:52:46 --> Loading page "/index" took 1.0000000000085654ms.
+DEBUG - 06/29/2025 13:52:46 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 13:52:46 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 13:52:55 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 13:52:55 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 13:52:55 --> Loading page "/index" took 1.0000000000085654ms.
+DEBUG - 06/29/2025 13:52:55 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 13:52:55 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 13:53:38 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 13:53:38 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 13:53:38 --> Loading page "/index" took 1.0000000000085654ms.
+DEBUG - 06/29/2025 13:53:38 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 13:53:38 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 13:53:54 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 13:53:54 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 13:53:54 --> Loading page "/index" took 1.000000000001713ms.
+DEBUG - 06/29/2025 13:53:54 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 13:53:54 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 13:53:54 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 13:53:54 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 13:54:31 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 13:54:31 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 13:54:31 --> Loading page "/index" took 1.0000000000085654ms.
+DEBUG - 06/29/2025 13:54:31 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 13:54:31 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 13:54:35 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 13:54:35 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 13:54:35 --> Loading page "/index" took 1.0000000000091365ms.
+DEBUG - 06/29/2025 13:54:35 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 13:54:35 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 13:54:41 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 13:54:41 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 13:54:41 --> Loading page "/index" took 1.000000000001713ms.
+DEBUG - 06/29/2025 13:54:41 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 13:54:41 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 13:58:35 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 13:58:35 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 13:58:35 --> Loading page "/index" took 1.0000000000091365ms.
+DEBUG - 06/29/2025 13:58:35 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 13:58:35 --> Loading page "/photosIndex" took 1ms.
+DEBUG - 06/29/2025 13:58:38 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 13:58:38 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 13:58:52 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 13:58:52 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 13:58:52 --> Loading page "/index" took 1.0000000000085654ms.
+DEBUG - 06/29/2025 13:58:52 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 13:58:52 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 13:58:52 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 13:58:52 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 13:59:51 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 13:59:51 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 13:59:51 --> Loading page "/index" took 1.0000000000085654ms.
+DEBUG - 06/29/2025 13:59:51 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 13:59:51 --> Loading page "/login" took 1.000000000000571ms.
+ERROR - 06/29/2025 13:59:51 --> "Error": ENOENT: no such file or directory, stat 'C:\Users\Curse\Desktop\programming\work\BnSSB\website\Resources\img\missing.\img\handrails.jpg'
+DEBUG - 06/29/2025 13:59:51 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 13:59:51 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 14:00:13 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 14:00:13 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 14:00:13 --> Loading page "/index" took 1.000000000001713ms.
+DEBUG - 06/29/2025 14:00:13 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 14:00:13 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 14:00:13 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 14:00:13 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 14:00:33 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 14:00:33 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 14:00:33 --> Loading page "/index" took 1.0000000000085654ms.
+DEBUG - 06/29/2025 14:00:33 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 14:00:33 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 14:00:33 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 14:00:33 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 14:00:54 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 14:00:54 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 14:00:54 --> Loading page "/index" took 1.000000000001713ms.
+DEBUG - 06/29/2025 14:00:54 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 14:00:54 --> Loading page "/login" took 1.000000000001713ms.
+DEBUG - 06/29/2025 14:00:54 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 14:00:54 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 14:03:26 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 14:03:26 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 14:03:26 --> Loading page "/index" took 1.000000000001713ms.
+DEBUG - 06/29/2025 14:03:26 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 14:03:26 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 14:03:26 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 14:03:26 --> Loading page "/photosIndex" took 1ms.
+DEBUG - 06/29/2025 14:05:02 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 14:05:02 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 14:05:02 --> Loading page "/index" took 1.000000000001713ms.
+DEBUG - 06/29/2025 14:05:02 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 14:05:02 --> Loading page "/login" took 1.000000000001142ms.
+DEBUG - 06/29/2025 14:05:02 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 14:05:02 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 14:05:20 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 14:05:20 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 14:05:20 --> Loading page "/index" took 1.0000000000085654ms.
+DEBUG - 06/29/2025 14:05:20 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 14:05:20 --> Loading page "/login" took 1.000000000001142ms.
+DEBUG - 06/29/2025 14:05:20 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 14:05:20 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 14:05:56 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 14:05:56 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 14:05:56 --> Loading page "/index" took 1.0000000000091365ms.
+DEBUG - 06/29/2025 14:05:56 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 14:05:56 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 14:05:56 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 14:05:56 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 14:06:14 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 14:06:14 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 14:06:14 --> Loading page "/index" took 1.0000000000091365ms.
+DEBUG - 06/29/2025 14:06:14 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 14:06:14 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 14:06:14 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 14:06:14 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 14:06:45 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 14:06:45 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 14:06:45 --> Loading page "/index" took 1.0000000000085654ms.
+DEBUG - 06/29/2025 14:06:45 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 14:06:45 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 14:06:58 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 14:06:58 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 14:06:58 --> Loading page "/index" took 1.0000000000085654ms.
+DEBUG - 06/29/2025 14:06:58 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 14:06:58 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 14:07:11 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 14:07:11 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 14:07:11 --> Loading page "/index" took 1.0000000000085654ms.
+DEBUG - 06/29/2025 14:07:11 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 14:07:11 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 14:07:23 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 14:07:23 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 14:07:23 --> Loading page "/index" took 1.0000000000091365ms.
+DEBUG - 06/29/2025 14:07:23 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 14:07:23 --> Loading page "/photosIndex" took 1ms.
+DEBUG - 06/29/2025 14:07:27 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 14:07:27 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 14:07:43 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 14:07:43 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 14:07:43 --> Loading page "/index" took 1.0000000000091365ms.
+DEBUG - 06/29/2025 14:07:43 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 14:07:43 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 14:07:43 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 14:07:43 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 14:07:48 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 14:07:48 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 14:07:48 --> Loading page "/index" took 1.0000000000085654ms.
+DEBUG - 06/29/2025 14:07:48 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 14:07:48 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 14:07:48 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 14:07:48 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 14:08:03 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 14:08:03 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 14:08:14 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 14:08:14 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 14:08:14 --> Loading page "/index" took 1.0000000000091365ms.
+DEBUG - 06/29/2025 14:08:14 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 14:08:14 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 14:08:14 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 14:08:14 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 14:08:41 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 14:08:41 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 14:08:41 --> Loading page "/index" took 1.0000000000074234ms.
+DEBUG - 06/29/2025 14:08:41 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 14:08:41 --> Loading page "/photosIndex" took 1ms.
+DEBUG - 06/29/2025 14:08:50 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 14:08:50 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 14:08:50 --> Loading page "/index" took 1.0000000000079945ms.
+DEBUG - 06/29/2025 14:08:50 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 14:08:50 --> Loading page "/photosIndex" took 1ms.
+DEBUG - 06/29/2025 14:09:03 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 14:09:03 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 14:09:03 --> Loading page "/index" took 1.0000000000085654ms.
+DEBUG - 06/29/2025 14:09:03 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 14:09:03 --> Loading page "/photosIndex" took 1ms.
+DEBUG - 06/29/2025 14:09:20 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 14:09:20 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 14:09:20 --> Loading page "/index" took 1.0000000000085654ms.
+DEBUG - 06/29/2025 14:09:21 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 14:09:21 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 14:09:29 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 14:09:29 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 14:09:29 --> Loading page "/index" took 1.000000000001713ms.
+DEBUG - 06/29/2025 14:09:29 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 14:09:29 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 14:09:47 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 14:09:47 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 14:09:47 --> Loading page "/index" took 1.0000000000091365ms.
+DEBUG - 06/29/2025 14:09:47 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 14:09:47 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 14:09:54 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 14:09:54 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 14:09:54 --> Loading page "/index" took 1.0000000000091365ms.
+DEBUG - 06/29/2025 14:09:54 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 14:09:54 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 14:10:14 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 14:10:14 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 14:10:14 --> Loading page "/index" took 1.0000000000091365ms.
+DEBUG - 06/29/2025 14:10:14 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 14:10:14 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 14:10:42 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 14:10:42 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 14:10:42 --> Loading page "/index" took 1.0000000000091365ms.
+DEBUG - 06/29/2025 14:10:42 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 14:10:42 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 14:10:56 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 14:10:56 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 14:10:56 --> Loading page "/index" took 1.0000000000074234ms.
+DEBUG - 06/29/2025 14:10:56 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 14:10:56 --> Loading page "/photosIndex" took 1ms.
+DEBUG - 06/29/2025 14:11:05 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 14:11:05 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 14:11:05 --> Loading page "/index" took 1.0000000000091365ms.
+DEBUG - 06/29/2025 14:11:05 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 14:11:05 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 14:11:09 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 14:11:09 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 14:11:18 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 14:11:18 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 14:11:18 --> Loading page "/index" took 1.000000000001713ms.
+DEBUG - 06/29/2025 14:11:18 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 14:11:18 --> Loading page "/photosIndex" took 1ms.
+DEBUG - 06/29/2025 14:11:31 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 14:11:31 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 14:11:31 --> Loading page "/index" took 1.0000000000085654ms.
+DEBUG - 06/29/2025 14:11:31 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 14:11:31 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 14:11:45 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 14:11:45 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 14:11:45 --> Loading page "/index" took 1.0000000000079945ms.
+DEBUG - 06/29/2025 14:11:45 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 14:11:45 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 14:12:08 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 14:12:08 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 14:12:08 --> Loading page "/index" took 1.0000000000091365ms.
+DEBUG - 06/29/2025 14:12:08 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 14:12:08 --> Loading page "/photosIndex" took 1ms.
+DEBUG - 06/29/2025 19:07:22 --> Sucessfully loaded page "landing".
+DEBUG - 06/29/2025 19:07:22 --> Loading page "/landing" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:12:48 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 19:12:48 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 19:12:48 --> Loading page "/index" took 1.0000000000091365ms.
+DEBUG - 06/29/2025 19:12:48 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 19:12:48 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:12:48 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 19:12:48 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:17:45 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 19:17:45 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 19:17:45 --> Loading page "/index" took 1.0000000000085654ms.
+DEBUG - 06/29/2025 19:17:45 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 19:17:45 --> Loading page "/photosIndex" took 1ms.
+DEBUG - 06/29/2025 19:18:10 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 19:18:10 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 19:18:10 --> Loading page "/index" took 1.0000000000091365ms.
+DEBUG - 06/29/2025 19:18:10 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 19:18:10 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:18:23 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 19:18:23 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 19:18:23 --> Loading page "/index" took 1.000000000001713ms.
+DEBUG - 06/29/2025 19:18:23 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 19:18:23 --> Loading page "/photosIndex" took 1ms.
+DEBUG - 06/29/2025 19:20:18 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 19:20:18 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 19:20:18 --> Loading page "/index" took 1.0000000000085654ms.
+DEBUG - 06/29/2025 19:20:18 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 19:20:18 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:20:47 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 19:20:47 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 19:20:47 --> Loading page "/index" took 1.0000000000085654ms.
+DEBUG - 06/29/2025 19:20:47 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 19:20:47 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:21:03 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 19:21:03 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 19:21:03 --> Loading page "/index" took 1.0000000000022842ms.
+DEBUG - 06/29/2025 19:21:03 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 19:21:03 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:22:16 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 19:22:16 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 19:22:16 --> Loading page "/index" took 1.0000000000079943ms.
+DEBUG - 06/29/2025 19:22:16 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 19:22:16 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:22:30 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 19:22:30 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 19:22:30 --> Loading page "/index" took 1.000000000001713ms.
+DEBUG - 06/29/2025 19:22:51 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 19:22:51 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 19:22:51 --> Loading page "/index" took 1.0000000000085654ms.
+DEBUG - 06/29/2025 19:22:51 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 19:22:51 --> Loading page "/photosIndex" took 1ms.
+DEBUG - 06/29/2025 19:22:54 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 19:22:54 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 19:22:54 --> Loading page "/index" took 1.000000000001713ms.
+DEBUG - 06/29/2025 19:22:54 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 19:22:54 --> Loading page "/photosIndex" took 1ms.
+DEBUG - 06/29/2025 19:23:03 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 19:23:03 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:23:22 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 19:23:22 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 19:23:22 --> Loading page "/index" took 1.000000000001713ms.
+DEBUG - 06/29/2025 19:23:22 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 19:23:22 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:23:22 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 19:23:22 --> Loading page "/photosIndex" took 1ms.
+DEBUG - 06/29/2025 19:24:07 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 19:24:07 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 19:24:07 --> Loading page "/index" took 1.0000000000074234ms.
+DEBUG - 06/29/2025 19:24:07 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 19:24:07 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:24:07 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 19:24:07 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:24:30 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 19:24:30 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 19:24:30 --> Loading page "/index" took 1.0000000000091365ms.
+DEBUG - 06/29/2025 19:24:30 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 19:24:30 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:24:30 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 19:24:30 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:26:55 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 19:26:55 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 19:26:55 --> Loading page "/index" took 1.0000000000079943ms.
+DEBUG - 06/29/2025 19:26:55 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 19:26:55 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:26:55 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 19:26:55 --> Loading page "/photosIndex" took 1ms.
+DEBUG - 06/29/2025 19:27:09 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 19:27:09 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 19:27:09 --> Loading page "/index" took 1.000000000001713ms.
+DEBUG - 06/29/2025 19:27:09 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 19:27:09 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:28:19 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 19:28:19 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 19:28:19 --> Loading page "/index" took 1.0000000000079943ms.
+DEBUG - 06/29/2025 19:28:19 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 19:28:19 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:28:19 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 19:28:19 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:28:57 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 19:28:57 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 19:28:57 --> Loading page "/index" took 1.0000000000079943ms.
+DEBUG - 06/29/2025 19:28:57 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 19:28:57 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:28:57 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 19:28:57 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:29:17 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 19:29:17 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 19:29:17 --> Loading page "/index" took 1.000000000001713ms.
+DEBUG - 06/29/2025 19:29:17 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 19:29:17 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:29:17 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 19:29:17 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:30:07 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 19:30:07 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 19:30:07 --> Loading page "/index" took 1.0000000000085654ms.
+DEBUG - 06/29/2025 19:30:07 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 19:30:07 --> Loading page "/login" took 1.000000000001142ms.
+DEBUG - 06/29/2025 19:30:07 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 19:30:07 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:30:26 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 19:30:26 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 19:30:26 --> Loading page "/index" took 1.0000000000079943ms.
+DEBUG - 06/29/2025 19:30:26 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 19:30:26 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:30:26 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 19:30:26 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:30:53 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 19:30:53 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 19:30:53 --> Loading page "/index" took 1.0000000000085654ms.
+DEBUG - 06/29/2025 19:30:53 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 19:30:53 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:30:53 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 19:30:53 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:31:12 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 19:31:12 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 19:31:12 --> Loading page "/index" took 1.0000000000085654ms.
+DEBUG - 06/29/2025 19:31:12 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 19:31:12 --> Loading page "/login" took 1ms.
+DEBUG - 06/29/2025 19:31:12 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 19:31:12 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:31:29 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 19:31:29 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 19:31:29 --> Loading page "/index" took 1.0000000000085654ms.
+DEBUG - 06/29/2025 19:31:29 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 19:31:29 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:31:29 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 19:31:29 --> Loading page "/photosIndex" took 1ms.
+DEBUG - 06/29/2025 19:31:39 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 19:31:39 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 19:31:39 --> Loading page "/index" took 1.0000000000091365ms.
+DEBUG - 06/29/2025 19:31:39 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 19:31:39 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:31:39 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 19:31:39 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:31:56 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 19:31:56 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 19:31:56 --> Loading page "/index" took 1.000000000001142ms.
+DEBUG - 06/29/2025 19:31:56 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 19:31:56 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:31:56 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 19:31:56 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:33:01 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 19:33:01 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 19:33:01 --> Loading page "/index" took 1.0000000000079943ms.
+DEBUG - 06/29/2025 19:33:01 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 19:33:01 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:33:01 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 19:33:01 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:33:21 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 19:33:21 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 19:33:21 --> Loading page "/index" took 1.0000000000079943ms.
+DEBUG - 06/29/2025 19:33:21 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 19:33:21 --> Loading page "/login" took 1ms.
+DEBUG - 06/29/2025 19:33:21 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 19:33:21 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:35:01 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 19:35:01 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 19:35:01 --> Loading page "/index" took 1.000000000001713ms.
+DEBUG - 06/29/2025 19:35:01 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 19:35:01 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:35:01 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 19:35:01 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:35:24 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 19:35:24 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 19:35:24 --> Loading page "/index" took 1.000000000001713ms.
+DEBUG - 06/29/2025 19:35:24 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 19:35:24 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:35:24 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 19:35:24 --> Loading page "/photosIndex" took 1ms.
+DEBUG - 06/29/2025 19:36:39 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 19:36:39 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 19:36:39 --> Loading page "/index" took 1.000000000001713ms.
+DEBUG - 06/29/2025 19:36:39 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 19:36:39 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:36:39 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 19:36:39 --> Loading page "/photosIndex" took 1ms.
+DEBUG - 06/29/2025 19:36:56 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 19:36:56 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 19:36:56 --> Loading page "/index" took 1.000000000001713ms.
+DEBUG - 06/29/2025 19:36:56 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 19:36:56 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:36:56 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 19:36:56 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:37:31 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 19:37:31 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 19:37:31 --> Loading page "/index" took 1.0000000000097073ms.
+DEBUG - 06/29/2025 19:37:31 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 19:37:31 --> Loading page "/login" took 1.000000000001142ms.
+DEBUG - 06/29/2025 19:37:31 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 19:37:31 --> Loading page "/photosIndex" took 1.000000000001142ms.
+DEBUG - 06/29/2025 19:38:28 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 19:38:28 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 19:38:28 --> Loading page "/index" took 1.0000000000079943ms.
+DEBUG - 06/29/2025 19:38:28 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 19:38:28 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:38:28 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 19:38:28 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:39:54 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 19:39:54 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 19:39:54 --> Loading page "/index" took 1.000000000001713ms.
+DEBUG - 06/29/2025 19:39:54 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 19:39:54 --> Loading page "/login" took 1.000000000001142ms.
+DEBUG - 06/29/2025 19:39:54 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 19:39:54 --> Loading page "/photosIndex" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:41:48 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 19:41:48 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 19:41:48 --> Loading page "/index" took 1.0000000000091365ms.
+DEBUG - 06/29/2025 19:41:48 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 19:41:48 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:41:48 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 19:41:48 --> Loading page "/photosIndex" took 1ms.
+DEBUG - 06/29/2025 19:45:01 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 19:45:01 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 19:45:01 --> Loading page "/index" took 1.0000000000085654ms.
+DEBUG - 06/29/2025 19:45:01 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 19:45:01 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:45:01 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 19:45:01 --> Loading page "/photosIndex" took 1ms.
+DEBUG - 06/29/2025 19:47:04 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 19:47:04 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 19:47:04 --> Loading page "/index" took 1.0000000000079943ms.
+DEBUG - 06/29/2025 19:47:04 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 19:47:04 --> Loading page "/photosIndex" took 1ms.
+DEBUG - 06/29/2025 19:47:17 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 19:47:17 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:47:45 --> Sucessfully loaded page "index".
+ERROR - 06/29/2025 19:47:45 --> /Warning: key "pageHeader" not found on object "".
+DEBUG - 06/29/2025 19:47:45 --> Loading page "/index" took 1.0000000000068523ms.
+DEBUG - 06/29/2025 19:47:45 --> Sucessfully loaded page "login".
+DEBUG - 06/29/2025 19:47:45 --> Loading page "/login" took 1.000000000000571ms.
+DEBUG - 06/29/2025 19:47:45 --> Sucessfully loaded page "photosIndex".
+DEBUG - 06/29/2025 19:47:45 --> Loading page "/photosIndex" took 1.000000000000571ms.

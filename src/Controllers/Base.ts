@@ -29,8 +29,8 @@ class BASE extends Controller {
         // this.data.pageHeader = "Please Log In";
         this.sendPage("index");
     }
-    async buildingsIndex(args: string[], query: { [key: string]: (string|string[]|undefined) }) {
-        sendFile(this.res, __dirname.replace("\\Controllers", "") + "/Resources/img/photos/buildingsIndex.json", "BASE");
+    async photosIndex(args: string[], query: { [key: string]: (string|string[]|undefined) }) {
+        sendFile(this.res, __dirname.replace("\\Controllers", "") + "/Resources/img/photos/photosIndex.json", "BASE");
     }
     async login(args: string[], query: { [key: string]: (string|string[]|undefined) }) {
         // if it has a session, clear it

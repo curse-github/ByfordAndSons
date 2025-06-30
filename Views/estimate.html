@@ -1,0 +1,109 @@
+<div style="display: flex; flex-direction: row;">
+    <div class="content" id="content" style="--width: 44svi; margin-left: 1svi; margin-right: 1svi;"></div>
+    <div class="content" id="content" style="--width: 44svi;--height: 35.5rem; height: var(--height); min-height: var(--height); max-height: var(--height); margin-left: 1svi; margin-right: 1svi;">
+        <h1 style="text-align: center; width: 99%">Estimate</h1>
+        <h3>Size:</h3>
+        <div name="size" id="size">
+            <input type="number" name="w" id="w" value="40" pattern="[0-9]+" onchange="update();" style="display: inline-block; height: 1.75rem; width: 5rem; margin-right: 0;">
+            <div style="display: inline-block; font-size: 1.25rem">ft x</div>
+            <input type="number" name="l" id="l" value="40" pattern="[0-9]+" onchange="update();" style="display: inline-block; height: 1.75rem; width: 5rem; margin-right: 0;">
+            <div style="display: inline-block; font-size: 1.25rem">ft x</div>
+            <input type="number" name="h" id="h" value="12" pattern="[0-9]+" onchange="update();" style="display: inline-block; height: 1.75rem; width: 5rem; margin-right: 0;">
+            <div style="display: inline-block; font-size: 1.25rem">ft</div>
+        </div>
+        <h3>Roof-height:</h3>
+        <input type="number" name="rh" id="rh" value="6" pattern="[0-9]+" onchange="update();" style="display: inline-block; height: 1.75rem; width: 5rem; margin-right: 0;">
+        <h3>Color:</h3>
+        <select name="color" id="color" style="width: 10rem; height: 2rem; padding:0;">
+            <option value="gray">Gray</option>
+            <option value="red">Red</option>
+            <option value="beige">Beige</option>
+        </select>
+        <div style="width: 40svw; margin-left: 1svw; height: 1.25px; background-color: black;"></div>
+        <br>
+        <div id="calc" style="font-size: 1rem"></div>
+        <br>
+        <div style="width: 40svw; margin-left: 1svw; height: 1.25px; background-color: black;"></div>
+        <h3>Phone number:</h3>
+        <input type="text" name="phone" id="phone" placeholder="(000)000-0000" pattern="\([0-9]{3}\)[0-9]{3}-[0-9]{4}" autocomplete="on" style="display: inline-block; height: 1.75rem; width: 14rem; margin-right: 0;">
+        <h3>Email:</h3>
+        <input type="text" name="email" id="email" pattern="\S+@\S+.\S+" autocomplete="on" style="display: inline-block; height: 1.75rem; width: 14rem; margin-right: 0;">
+        <input type="button" class="button" style="margin-top:1rem" value="Send Request">
+    </div>
+</div>
+
+<script>
+    const tab = "&emsp;&emsp;";
+    function round(num) { return Math.round(num*100)/100; }
+    const steelRate = 4.25;// https://www.bbmofokc.com/product-page/welding-rod-1-8
+    const concreteRate = 6.16;// (166.39 ($/yd^3)/(27 ft^3/yd^3)// https://www.concretenetwork.com/concrete-prices.html
+    function update() {
+        const width = parseFloat(document.getElementById("w").value);
+        const length = parseFloat(document.getElementById("l").value);
+        const height = parseFloat(document.getElementById("h").value);
+        const roof_height = parseFloat(document.getElementById("rh").value);
+        const max = Math.max(width,length);
+        const min = Math.min(width,length);
+        const roof_len = Math.sqrt(min*min/4 + roof_height*roof_height);
+        let totalMoney = 20000;
+        let totalConcrete = ((width+1)*(length+1)*4);
+        let totalSheet = 0;
+        totalSheet += (width+length)*height*2;
+        totalSheet += (min*roof_height + max*roof_len)*2;
+        totalMoney += totalSheet*steelRate;
+        totalMoney += totalConcrete*concreteRate;
+
+        const el = document.getElementById("calc");
+        el.innerHTML = "<div style=\"display:inline-block; font-weight: bold\">~ $" + round(totalMoney) + "</div> total."
+        el.innerHTML += "<br>" + tab + round(totalConcrete) + " cubed ft * " + concreteRate + "$/cubed ft = $" + round(totalConcrete*concreteRate) + " for concrete";
+        el.innerHTML += "<br>" + tab.repeat(2) + (width+1) + "ft*" + (length+1) + "ft*4ft" + " = " + round(totalConcrete) + " cubed ft for foundation";
+        el.innerHTML += "<br>" + tab + round(totalSheet) + "sqft * " + steelRate + "$/sqft = $" + round(totalSheet*steelRate) + " for sheet steel";
+        el.innerHTML += "<br>" + tab.repeat(2) + width + "ft*" + height + "ft*2" + " + " + length + "ft*" + height + "ft*2 = " + round((width+length)*height*2) + " sqft for walls";
+        el.innerHTML += "<br>" + tab + "~ $20,000 for labor";
+    }
+    update();
+    fetchJson("/buildingsIndex").then((data) => {
+        const { keys, information } = data;
+        for (let i = 0; i < keys.length; i++) {
+            const name = keys[i];
+            const info = information[name];
+            let element = "<h2 style=\"font-weight: normal;\">" + name + ": " + info.width + "x" + info.length + "x" + info.height + " in " + info.color + "</h2><div id=\"test-" + i + "\"style=\"display: flex; flex-direction: row; overflow-y: hidden; overflow-x: scroll; height: 16rem; padding: 0.5rem; margin-bottom: 0.5rem; border-left-style: dotted; border-left-color: black; border-left-width: 0px; border-right-style: dotted; border-right-color: black; border-right-width: 0px;\">";
+            for (let j = 0; j < info.photos.length; j++) {
+                element += "<img src=\"/img/photos/" + info.photos[j] + "\" style=\"height: 15rem; display: inline-block; margin-right: 0.5rem; border-style: solid; border-color: black; border-radius: 1rem\">";
+            }
+            element += "</div><div style=\"width: 40svw; margin-left: 1svw; height: 1.25px; background-color: black;\"></div>";
+            document.getElementById("content").innerHTML += element;
+        }
+        const interval = setInterval(() => {
+            const lastEl = document.getElementById("test-" + (keys.length - 1));
+            if (lastEl != null) {
+                clearInterval(interval);
+                for (let i = 0; i < keys.length; i++) {
+                    const name = keys[i];
+                    const info = information[name];
+                    const el = document.getElementById("test-" + i);
+                    function check() {
+                        // calc inner width
+                        let rem = el.children[0].clientHeight / 15;
+                        let innerWidth = 0;
+                        for (const child of el.children) innerWidth += child.clientWidth;
+                        innerWidth += el.children.length * rem * 0.5;// margin on each image
+                        innerWidth += rem;// padding inside div
+                        innerWidth += 2;
+                        innerWidth -= el.clientWidth;
+                        // calc
+                        el.style.borderLeftWidth = (el.scrollLeft > 0) ? "2px" : "0px";
+                        el.style.borderRightWidth = (el.scrollLeft < innerWidth) ? "2px" : "0px";
+                    }
+                    el.addEventListener("wheel", (e) => {
+                        e.preventDefault()
+                        el.scrollLeft += (e.deltaY / Math.abs(e.deltaY))*45;
+                        check()
+                    });
+                    el.addEventListener("scroll", check);
+                    check();
+                }
+            }
+        }, 100);
+    });
+</script>
