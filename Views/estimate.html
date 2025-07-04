@@ -1,109 +1,156 @@
-<div style="display: flex; flex-direction: row;">
-    <div class="content" id="content" style="--width: 44svi; margin-left: 1svi; margin-right: 1svi;"></div>
-    <div class="content" id="content" style="--width: 44svi;--height: 35.5rem; height: var(--height); min-height: var(--height); max-height: var(--height); margin-left: 1svi; margin-right: 1svi;">
+<link rel="stylesheet" href="/css/estimate.css">
+<div class="content" style="--width: 45rem; margin-left: 1svi; margin-right: 1svi;">
+    <form>
         <h1 style="text-align: center; width: 99%">Estimate</h1>
         <h3>Size:</h3>
         <div name="size" id="size">
-            <input type="number" name="w" id="w" value="40" pattern="[0-9]+" onchange="update();" style="display: inline-block; height: 1.75rem; width: 5rem; margin-right: 0;">
+            <input type="number" name="width" id="w" value="40" pattern="[0-9]+" onchange="update();" style="display: inline-block; height: 1.75rem; width: 5rem; margin-right: 0;">
             <div style="display: inline-block; font-size: 1.25rem">ft x</div>
-            <input type="number" name="l" id="l" value="40" pattern="[0-9]+" onchange="update();" style="display: inline-block; height: 1.75rem; width: 5rem; margin-right: 0;">
+            <input type="number" name="length" id="l" value="40" pattern="[0-9]+" onchange="update();" style="display: inline-block; height: 1.75rem; width: 5rem; margin-right: 0;">
             <div style="display: inline-block; font-size: 1.25rem">ft x</div>
-            <input type="number" name="h" id="h" value="12" pattern="[0-9]+" onchange="update();" style="display: inline-block; height: 1.75rem; width: 5rem; margin-right: 0;">
+            <input type="number" name="height" id="h" value="12" pattern="[0-9]+" onchange="update();" style="display: inline-block; height: 1.75rem; width: 5rem; margin-right: 0;">
             <div style="display: inline-block; font-size: 1.25rem">ft</div>
         </div>
-        <h3>Roof-height:</h3>
-        <input type="number" name="rh" id="rh" value="6" pattern="[0-9]+" onchange="update();" style="display: inline-block; height: 1.75rem; width: 5rem; margin-right: 0;">
         <h3>Color:</h3>
-        <select name="color" id="color" style="width: 10rem; height: 2rem; padding:0;">
-            <option value="gray">Gray</option>
-            <option value="red">Red</option>
-            <option value="beige">Beige</option>
+        <select name="color" id="c" style="width: 10rem; height: 2rem; padding:0;">
+            <option value="Red">Red</option>
+            <option value="Orange">Orange</option>
+            <option value="Yellow">Yellow</option>
+            <option value="Green">Green</option>
+            <option value="Blue">Blue</option>
+            <option value="Purple">Purple</option>
+            <option value="Black">Black</option>
+            <option value="Gray">Gray</option>
+            <option value="Beige">Beige</option>
         </select>
-        <div style="width: 40svw; margin-left: 1svw; height: 1.25px; background-color: black;"></div>
+        <h3>Wainscoting color:</h3>
+        <select name="wainscoting_color" id="wc" style="width: 10rem; height: 2rem; padding:0;">
+            <option value="Red">Red</option>
+            <option value="Orange">Orange</option>
+            <option value="Yellow">Yellow</option>
+            <option value="Green">Green</option>
+            <option value="Blue">Blue</option>
+            <option value="Purple">Purple</option>
+            <option value="Black">Black</option>
+            <option value="Gray">Gray</option>
+            <option value="Beige">Beige</option>
+        </select>
+        <h3>#Windows:</h3>
+        <input type="number" name="windows" id="wi" value="1" pattern="[0-9]+" style="display: inline-block; height: 1.75rem; width: 5rem; margin-right: 0;">
+        <h3>#Doors:</h3>
+        <input type="number" name="doors" id="d" value="1" pattern="[0-9]+" style="display: inline-block; height: 1.75rem; width: 5rem; margin-right: 0;">
+        <h3>#Garages:</h3>
+        <input type="number" name="garages" id="g" value="0" pattern="[0-9]+" style="display: inline-block; height: 1.75rem; width: 5rem; margin-right: 0;">
+        <h3>Porch?:</h3>
+        <select name="porch" id="p" style="width: 10rem; height: 2rem; padding:0;" onchange="update()">
+            <option value="No">No</option>
+            <option value="Yes">Yes</option>
+        </select>
+        <div id="has_porch">
+            <h3>Porch size:</h3>
+            <div name="size" id="size">
+                <input type="number" name="width" id="pw" value="30" pattern="[0-9]+" onchange="update();" style="display: inline-block; height: 1.75rem; width: 5rem; margin-right: 0;">
+                <div style="display: inline-block; font-size: 1.25rem">ft x</div>
+                <input type="number" name="length" id="pl" value="10" pattern="[0-9]+" onchange="update();" style="display: inline-block; height: 1.75rem; width: 5rem; margin-right: 0;">
+                <div style="display: inline-block; font-size: 1.25rem">ft x</div>
+                <input type="number" name="height" id="ph" value="8" pattern="[0-9]+" onchange="update();" style="display: inline-block; height: 1.75rem; width: 5rem; margin-right: 0;">
+                <div style="display: inline-block; font-size: 1.25rem">ft</div>
+            </div>
+        </div>
+        <br>
+        <div class="bar"></div>
         <br>
         <div id="calc" style="font-size: 1rem"></div>
         <br>
-        <div style="width: 40svw; margin-left: 1svw; height: 1.25px; background-color: black;"></div>
+        <div class="bar"></div>
+        <br>
+        <h3>Full Name:</h3>
+        <input type="text" name="name" id="name" required autocomplete="on" style="display: inline-block; height: 1.75rem; width: 14rem; margin-right: 0;">
         <h3>Phone number:</h3>
-        <input type="text" name="phone" id="phone" placeholder="(000)000-0000" pattern="\([0-9]{3}\)[0-9]{3}-[0-9]{4}" autocomplete="on" style="display: inline-block; height: 1.75rem; width: 14rem; margin-right: 0;">
+        <input type="text" name="phone" id="phone" placeholder="4050000000" required pattern="^[0-9]{4}$" autocomplete="on" style="display: inline-block; height: 1.75rem; width: 14rem; margin-right: 0;">
         <h3>Email:</h3>
-        <input type="text" name="email" id="email" pattern="\S+@\S+.\S+" autocomplete="on" style="display: inline-block; height: 1.75rem; width: 14rem; margin-right: 0;">
-        <input type="button" class="button" style="margin-top:1rem" value="Send Request">
-    </div>
+        <input type="text" name="email" id="email" required pattern="^\S+@\S+.\S+$" autocomplete="on" style="display: inline-block; height: 1.75rem; width: 14rem; margin-right: 0;">
+        <input type="button" class="button" style="margin-top:1rem; margin-bottom: 1rem;" value="Download PDF" onclick="download()">
+    </form>
+    <h3>
+        To send this estimate to us, press "Download PDF" and,
+        <br>on computer, simply press "Save",
+        <br>and on your phone, after pressing download, click <img style="height: 1rem; width: 1rem; display: inline-block;" src="/img/upload.png"></img> in the top right, scroll down, and save to files.
+        <br>then email it to us at <a style="display: inline-block;" href="mailto:byfordandsons@gmail.com">byfordandsons@gmail.com</a>
+    </h3>
 </div>
-
+<h1 class="onprint" id="onprint" style="font-weight: normal;">
+    <img class="onprint" style="width: 50svw; aspect-ratio: 4.5;" src="/img/headerlogo.png" >
+    <br>
+    <img class="onprint bar90" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAD0lEQVR4AQEEAPv/AAAAAAAEAAFlScNgAAAAAElFTkSuQmCC">
+    <br>Name: <div class="onprint bold" id="p_name"></div>
+    <br>Phone: <div class="onprint bold" id="p_phone"></div>
+    <br>Email: <div class="onprint bold" id="p_email"></div>
+    <br>
+    <br>Size: <div class="onprint bold" id="p_s"></div>
+    <br>Base Price: <div class="onprint bold" id="p_price"></div>
+    <br>#Windows: <div class="onprint bold" id="p_wi"></div>
+    <br>#Doors: <div class="onprint bold" id="p_d"></div>
+    <br>#Garages: <div class="onprint bold" id="p_g"></div>
+    <br>Color: <div class="onprint bold" id="p_c"></div>
+    <br>Wainscoting color: <div class="onprint bold" id="p_wc"></div>
+    <br>Porch?: <div class="onprint bold" id="p_p"></div>
+</h1>
 <script>
     const tab = "&emsp;&emsp;";
     function round(num) { return Math.round(num*100)/100; }
-    const steelRate = 4.25;// https://www.bbmofokc.com/product-page/welding-rod-1-8
-    const concreteRate = 6.16;// (166.39 ($/yd^3)/(27 ft^3/yd^3)// https://www.concretenetwork.com/concrete-prices.html
+    const rate = 30;
     function update() {
         const width = parseFloat(document.getElementById("w").value);
         const length = parseFloat(document.getElementById("l").value);
-        const height = parseFloat(document.getElementById("h").value);
-        const roof_height = parseFloat(document.getElementById("rh").value);
-        const max = Math.max(width,length);
-        const min = Math.min(width,length);
-        const roof_len = Math.sqrt(min*min/4 + roof_height*roof_height);
-        let totalMoney = 20000;
-        let totalConcrete = ((width+1)*(length+1)*4);
-        let totalSheet = 0;
-        totalSheet += (width+length)*height*2;
-        totalSheet += (min*roof_height + max*roof_len)*2;
-        totalMoney += totalSheet*steelRate;
-        totalMoney += totalConcrete*concreteRate;
-
+        const p_width = parseFloat(document.getElementById("pw").value);
+        const p_length = parseFloat(document.getElementById("pl").value);
+        const porch = ((document.getElementById("p").value) === "Yes");
+        if (porch) document.getElementById("has_porch").style="";
+        else document.getElementById("has_porch").style="width: 0px; height: 0px; overflow: hidden;";
+        const sqft = width*length + p_width*p_length;
+        const bid = sqft*rate;
         const el = document.getElementById("calc");
-        el.innerHTML = "<div style=\"display:inline-block; font-weight: bold\">~ $" + round(totalMoney) + "</div> total."
-        el.innerHTML += "<br>" + tab + round(totalConcrete) + " cubed ft * " + concreteRate + "$/cubed ft = $" + round(totalConcrete*concreteRate) + " for concrete";
-        el.innerHTML += "<br>" + tab.repeat(2) + (width+1) + "ft*" + (length+1) + "ft*4ft" + " = " + round(totalConcrete) + " cubed ft for foundation";
-        el.innerHTML += "<br>" + tab + round(totalSheet) + "sqft * " + steelRate + "$/sqft = $" + round(totalSheet*steelRate) + " for sheet steel";
-        el.innerHTML += "<br>" + tab.repeat(2) + width + "ft*" + height + "ft*2" + " + " + length + "ft*" + height + "ft*2 = " + round((width+length)*height*2) + " sqft for walls";
-        el.innerHTML += "<br>" + tab + "~ $20,000 for labor";
+        el.innerHTML = "<div style=\"display:inline-block; font-weight: bold\">~ $" + round(bid) + "</div> total."
+        el.innerHTML += "<br>" + tab + round(sqft) + "sqft * " + rate + "$/sqft = $" + round(bid) + " for starting rate";
+        el.innerHTML += "<br>" + tab.repeat(2) + width + "ft*" + length + "ft = " + round(width*length) + " sqft in building";
+        el.innerHTML += "<br>" + tab.repeat(2) + p_width + "ft*" + p_length + "ft = " + round(p_width*p_length) + " sqft in porch";
     }
     update();
-    fetchJson("/buildingsIndex").then((data) => {
-        const { keys, information } = data;
-        for (let i = 0; i < keys.length; i++) {
-            const name = keys[i];
-            const info = information[name];
-            let element = "<h2 style=\"font-weight: normal;\">" + name + ": " + info.width + "x" + info.length + "x" + info.height + " in " + info.color + "</h2><div id=\"test-" + i + "\"style=\"display: flex; flex-direction: row; overflow-y: hidden; overflow-x: scroll; height: 16rem; padding: 0.5rem; margin-bottom: 0.5rem; border-left-style: dotted; border-left-color: black; border-left-width: 0px; border-right-style: dotted; border-right-color: black; border-right-width: 0px;\">";
-            for (let j = 0; j < info.photos.length; j++) {
-                element += "<img src=\"/img/photos/" + info.photos[j] + "\" style=\"height: 15rem; display: inline-block; margin-right: 0.5rem; border-style: solid; border-color: black; border-radius: 1rem\">";
-            }
-            element += "</div><div style=\"width: 40svw; margin-left: 1svw; height: 1.25px; background-color: black;\"></div>";
-            document.getElementById("content").innerHTML += element;
-        }
-        const interval = setInterval(() => {
-            const lastEl = document.getElementById("test-" + (keys.length - 1));
-            if (lastEl != null) {
-                clearInterval(interval);
-                for (let i = 0; i < keys.length; i++) {
-                    const name = keys[i];
-                    const info = information[name];
-                    const el = document.getElementById("test-" + i);
-                    function check() {
-                        // calc inner width
-                        let rem = el.children[0].clientHeight / 15;
-                        let innerWidth = 0;
-                        for (const child of el.children) innerWidth += child.clientWidth;
-                        innerWidth += el.children.length * rem * 0.5;// margin on each image
-                        innerWidth += rem;// padding inside div
-                        innerWidth += 2;
-                        innerWidth -= el.clientWidth;
-                        // calc
-                        el.style.borderLeftWidth = (el.scrollLeft > 0) ? "2px" : "0px";
-                        el.style.borderRightWidth = (el.scrollLeft < innerWidth) ? "2px" : "0px";
-                    }
-                    el.addEventListener("wheel", (e) => {
-                        e.preventDefault()
-                        el.scrollLeft += (e.deltaY / Math.abs(e.deltaY))*45;
-                        check()
-                    });
-                    el.addEventListener("scroll", check);
-                    check();
-                }
-            }
-        }, 100);
-    });
+    function download() {
+        const width = parseFloat(document.getElementById("w").value);
+        const length = parseFloat(document.getElementById("l").value);
+        const height = parseFloat(document.getElementById("h").value);
+        const color = document.getElementById("c").value;
+        const wainscote = document.getElementById("wc").value;
+        const windows = document.getElementById("wi").value;
+        const doors = document.getElementById("d").value;
+        const garages = document.getElementById("g").value;
+        const porch = document.getElementById("p").value;
+        const p_width = parseFloat(document.getElementById("pw").value);
+        const p_length = parseFloat(document.getElementById("pl").value);
+        const p_height = parseFloat(document.getElementById("ph").value);
+        const sqft = width*length + p_width*p_length;
+        const bid = sqft*rate;
+        const name = document.getElementById("name").value;
+        if (name.length == 0) { document.getElementById("name").reportValidity(); return; }
+        const phone = document.getElementById("phone").value;
+        if (!((/^[0-9]{10}$/g).test(phone)))  { document.getElementById("phone").reportValidity(); return; }
+        const email = document.getElementById("email").value;
+        if (!((/^\S+@\S+.\S+$/g).test(email)))  { document.getElementById("email").reportValidity(); return; }
+
+        document.getElementById("p_name").innerHTML = name;
+        document.getElementById("p_phone").innerHTML = "(" + phone.substring(0, 3) + ") " + phone.substring(3, 6) + "-" + phone.substring(6, 10);
+        document.getElementById("p_email").innerHTML = email;
+        document.getElementById("p_s").innerHTML = width + "x" + length + "x" + height;
+        document.getElementById("p_price").innerHTML = "$" + bid;
+        document.getElementById("p_c").innerHTML = color;
+        document.getElementById("p_wc").innerHTML = wainscote;
+        document.getElementById("p_wi").innerHTML = windows;
+        document.getElementById("p_d").innerHTML = doors;
+        document.getElementById("p_g").innerHTML = garages;
+        document.getElementById("p_p").innerHTML = porch;
+        if (porch === "Yes") document.getElementById("onprint").innerHTML += "<br>Porch size: <div class=\"onprint bold\" id=\"p_ps\">" + p_width + "x" + p_length + "x" + p_height + "</div>";
+        window.print();
+    }
 </script>

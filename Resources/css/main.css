@@ -1,6 +1,7 @@
 html, body {
     /* overflow-y: hidden; */
-    height: 100svh;
+    width: 100svw;
+    height: 99svh;
 }
 * {
     margin: 0;
@@ -78,6 +79,57 @@ input[type="radio"] {
     color: #ffffff;
 }
 .header * { color: #ffffff; text-decoration: none; }
+
+@keyframes hamburger_open {
+    0% { padding: 0px; width: 0px; height: 0px; opacity: 0; }
+    75% { opacity: 1; }
+    100% { padding: 1rem; width: var(--width); height: var(--height); opacity: 1; }
+}
+.hamburger {
+    position: absolute;
+    right: 0px;
+    top: 7svh;
+    --width: 8rem;
+    --height: 6.25rem;
+    opacity: 1;
+    padding: 1rem;
+    padding-bottom: 0.75rem;
+    overflow: hidden;
+    background-color: #525252;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    border-radius: 0.5rem;
+    border-top-right-radius: 0;
+    animation-play-state: paused;
+}
+@keyframes hamburger_close {
+    0% { padding: 1rem; width: var(--width); height: var(--height); opacity: 1; }
+    75% { opacity: 0; }
+    100% { padding: 0px; width: 0px; height: 0px; opacity: 0; }
+}
+.hamburger.closed {
+    animation-name: hamburger_open;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+}
+.hamburger.opened {
+    animation-name: hamburger_close;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+}
+.hamburger.play_animation {
+    animation-play-state: running !important;
+}
+.menu-button {
+    width: 6rem;
+    height: 2rem;
+    font-size: 1rem;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 0.25rem;
+    margin-bottom: 0.25rem;
+}
 .container {
     display:flex;
     align-items: center;
@@ -190,6 +242,9 @@ input[type="radio"] {
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
 }
+.header > .float-left {
+    height: 100%;
+}
 .float-right {
     position: absolute;
     margin: 0;
@@ -210,7 +265,8 @@ input[type="radio"] {
     background-position: center;
     background-size: auto 100%;
     display: block;
-    height: 7svh;
+    margin-top: 0.5svh;
+    height: 6svh;
     overflow: hidden;
     aspect-ratio: 4.5;
 }
@@ -232,6 +288,10 @@ input[type="radio"] {
 }
 .icon-blog {
     background: url("/img/blog.png") no-repeat;
+}
+.hamburger-icon {
+    background: url("/img/hamburger.png");
+    background-size: 40px;
 }
 .icon-linked {
     background: url("/img/linked.png") no-repeat;

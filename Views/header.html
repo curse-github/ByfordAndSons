@@ -12,14 +12,27 @@
             <div class="float-left">
                 <a href="/<!-- IF($isLoggedIn){ -->user/landing<!-- } -->" class="headerlogo"></a>
             </div>
-            <!-- IF ($isLoggedIn) { -->
             <div class="float-right">
+            <!-- IF ($isLoggedIn) { -->
                 <a href="/user/view_profile"><!-- $userFullName --></a><br>
                 <a href="/login">Sign Out</a>
-            </div>
             <!-- } -->
+                <a class="icon hamburger-icon" onclick="toggleHamburger();"></a>
+            </div>
         </div>
-        <div class="container"> <!-- gets ended in the footer-->
+        <div class="hamburger closed" id="hamburger">
+            <input type="button" class="button menu-button" value="Home" onclick="window.location.pathname='/index';">
+            <input type="button" class="button menu-button" value="Estimate" onclick="window.location.pathname='/estimate';">
+        </div>
+        <script>
+            let started = false;
+            function toggleHamburger() {
+                const el = document.getElementById("hamburger")
+                if (!started) { el.classList.add("play_animation"); started = true; }
+                else { el.classList.toggle("opened"); el.classList.toggle("closed"); }
+            }
+        </script>
+        <div class="container onprint"> <!-- gets ended in the footer-->
             <h1 class="page-header"><!-- $pageHeader-->
                 <!-- IF ($pageEditable) { -->
                 <a href="<!-- $editLink -->" class="icon edit-icon"></a>

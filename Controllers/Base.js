@@ -32,8 +32,18 @@ class BASE extends controllerClass_1.Controller {
             this.data.pageEditable = false;
             this.data.message = "";
             this.data.pageTitle = "Home";
-            // this.data.pageHeader = "Please Log In";
+            this.data.pageHeader = "";
             this.sendPage("index");
+        });
+    }
+    estimate(args, query) {
+        return __awaiter(this, void 0, void 0, function* () {
+            // this page is not editable and you cant get a message because there is no session
+            this.data.pageEditable = false;
+            this.data.message = "";
+            this.data.pageTitle = "Estimate";
+            this.data.pageHeader = "";
+            this.sendPage("estimate");
         });
     }
     photosIndex(args, query) {

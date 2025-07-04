@@ -1,0 +1,66 @@
+.bar {
+    width: 90%;
+    margin-left: 5%;
+    height: 0.115rem;
+    background-color: black;
+    overflow: visible;
+}
+.bar90 {
+    width: 90svw;
+    margin-left: 5svw;
+    height: 0.115rem;
+    overflow: visible;
+}
+.onprint {
+    width: 0px;
+    height: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+.bold {
+    display: inline-block;
+    height: 1em;
+    font-weight: bold;
+    vertical-align: top;
+}
+@media print {
+    * {
+        width: 0px;
+        height: 0px;
+        padding: 0px;
+        overflow: hidden;
+        border: none;
+    }
+    .content {
+        padding: 0px;
+        border: none;
+    }
+    .header, .footer {
+        --height: 0px;
+        --width: 0px;
+        padding: 0px;
+    }
+    .hamburger {
+        height: 0px !important;
+        width: 0px !important;
+        padding: 0px !important;
+        border: none !important;
+    }
+    html, body {
+        /* overflow-y: hidden; */
+        width: 100svw;
+        height: 99svh;
+    }
+    .onprint {
+        width: auto;
+        height: auto;
+        overflow: visible;
+    }
+    .onprint.bold {
+        height: 1em;
+    }
+    .onprint.bar90 {
+        width: 90svw;
+        height: 0.115rem;
+    }
+}

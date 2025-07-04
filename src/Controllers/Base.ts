@@ -24,10 +24,17 @@ class BASE extends Controller {
         // this page is not editable and you cant get a message because there is no session
         this.data.pageEditable = false;
         this.data.message = "";
-
         this.data.pageTitle = "Home";
-        // this.data.pageHeader = "Please Log In";
+        this.data.pageHeader = "";
         this.sendPage("index");
+    }
+    async estimate(args: string[], query: { [key: string]: (string|string[]|undefined) }) {
+        // this page is not editable and you cant get a message because there is no session
+        this.data.pageEditable = false;
+        this.data.message = "";
+        this.data.pageTitle = "Estimate";
+        this.data.pageHeader = "";
+        this.sendPage("estimate");
     }
     async photosIndex(args: string[], query: { [key: string]: (string|string[]|undefined) }) {
         sendFile(this.res, __dirname.replace("\\Controllers", "") + "/Resources/img/photos/photosIndex.json", "BASE");
